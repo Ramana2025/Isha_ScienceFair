@@ -1,0 +1,1430 @@
+﻿Wastewater Surveillance Data
+Date generated: Fri Feb 28 2025 10:01:32 GMT-0500 (Eastern Standard Time)
+Jurisdiction,Sewershed ID,Reporting Jurisdiction,County,Population Served,Current virus levels in wastewater by site (in %),Percent change in the last 15 days ,Percent of wastewater samples with detectable virus 
+Alabama,2937,Alabama,Randolph,5311,75.6,173,100
+Alabama,2926,Alabama,Dallas,19000,41.4,578,100
+Alabama,2925,Alabama,Macon,3653,67.6,-84,100
+Alabama,2917,Alabama,Tuscaloosa,12278,67.6,-31,100
+Alabama,2916,Alabama,Sumter,4000,44.33,11213,100
+Alabama,2629,Alabama,Lee,70000,54.4,627,100
+Alabama,1716,Alabama,Jefferson,30000,51.86,33,100
+Alabama,2875,Alabama,Marshall,18280,86.6,-55,100
+Alabama,2877,Alabama,Morgan,50772,68.75,19270,100
+Alabama,2878,Alabama,Madison,46000,82.2,-67,100
+Alabama,1718,Alabama,Jefferson,225000,48.29,-5,100
+Alabama,1719,Alabama,Jefferson,200000,63,-3,100
+Alabama,2923,Alabama,Barbour,14000,50,9,100
+Alabama,1893,Alabama,Jefferson,77000,51.29,-25,100
+Alabama,2510,Alabama,Colbert,18000,63.6,-54,100
+Alabama,2876,Alabama,Calhoun,22600,81.2,-70,100
+Alabama,2924,Alabama,Pike,20000,19.25,261,100
+Alabama,1664,Alabama,Jefferson,95000,59,67,100
+Alaska,1172,Alaska,Anchorage,220000,51,556,33
+Alaska,1490,Alaska,Juneau,12000,28,N/A,100
+Alaska,2609,Alaska,Anchorage,220000,36.14,3,100
+Alaska,2633,Alaska,Anchorage,23000,55.4,-81,100
+Alaska,2844,Alaska,Fairbanks North Star,92000,41.2,-50,100
+Alaska,1491,Alaska,Juneau,22000,N/A,N/A,N/A
+Arizona,808,Arizona,Mohave,37500,86,-55,100
+Arizona,1271,Arizona,Pima,23000,67,11359,100
+Arizona,1212,Arizona,Maricopa,12542,N/A,N/A,N/A
+Arizona,1055,Arizona,Yuma,8271,63.8,-95,100
+Arizona,1053,Arizona,Yuma,8271,59.6,-100,67
+Arizona,1057,Arizona,Yuma,4508,65.4,122,100
+Arizona,1059,Arizona,Yuma,18039,39.6,-60,100
+Arizona,1212,Arizona,Maricopa,53578,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,17280,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,9430,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,9848,N/A,N/A,N/A
+Arizona,2524,Arizona,Maricopa,19260,85,66642794,100
+Arizona,2828,Arizona,Coconino,46000,45.4,-100,100
+Arizona,2918,Arizona,La Paz,3400,65.4,628,100
+Arizona,501,Arizona,La Paz,3500,95.8,-73,100
+Arizona,715,Arizona,Pima,397407,87.4,-31,100
+Arizona,1056,Arizona,Yuma,8928,71.5,-100,100
+Arizona,1212,Arizona,Maricopa,23746,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,88521,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,64521,N/A,N/A,N/A
+Arizona,1212,Arizona,Maricopa,6500,N/A,N/A,N/A
+Arizona,1382,Arizona,Maricopa,50000,86.2,96,100
+Arizona,1383,Arizona,Maricopa,2400000,89.8,208,100
+Arizona,2523,Arizona,Maricopa,130000,84.2,-73,100
+Arizona,2829,Arizona,Coconino,80000,45.4,1369,100
+Arizona,590,Arizona,Pima,347900,88,79166,100
+Arkansas,2686,Arkansas,Garland,38000,50.6,-73,100
+Arkansas,2631,Arkansas,Greene,25000,37.5,-99,67
+Arkansas,1542,Arkansas,Pulaski,30377,44.25,-70,100
+Arkansas,1546,Arkansas,Pulaski,18463,71.25,-93,100
+Arkansas,2588,Arkansas,Boone,14000,48,112,100
+Arkansas,2588,Arkansas,Boone,15000,47.29,44,100
+Arkansas,446,Arkansas,Pulaski,32043,36.5,-49,100
+Arkansas,1543,Arkansas,Pulaski,23812,34.5,63,100
+Arkansas,2507,Arkansas,Benton,19000,82.33,3833,100
+California,2411,California,Butte,101299,54.5,-100,100
+California,2338,California,Butte,44000,N/A,N/A,N/A
+California,2330,California,Santa Barbara,77600,19.29,70859653,100
+California,211,California,Los Angeles,3500000,44.75,N/A,100
+California,1524,California,Plumas,4217,47,N/A,100
+California,2890,California,Santa Cruz,70000,24.8,-8,100
+California,2888,California,Santa Cruz,94000,28.8,47,100
+California,2874,California,Stanislaus,230000,61.2,37,100
+California,2864,California,Solano,155000,28.4,1859,100
+California,2685,California,San Luis Obispo,15000,48.67,-95,100
+California,2680,California,Sonoma,237800,11.4,956,100
+California,2638,California,El Dorado,30000,30.6,203,100
+California,1720,California,Contra Costa,102000,21.4,66,100
+California,1695,California,Marin,30000,23.2,51,100
+California,1668,California,Contra Costa,495000,21.2,-26,100
+California,1869,California,Riverside,350000,51.86,-3,100
+California,2743,California,Shasta,29000,37.29,-14,83
+California,2745,California,Santa Barbara,97000,29.14,-12,100
+California,2783,California,Los Angeles,3500000,42.57,-11,100
+California,305,California,Santa Clara,236000,22.47,-9,100
+California,363,California,San Francisco; San Mateo,750000,43,8,100
+California,2487,California,Monterey,16000,49.6,-97,100
+California,2526,California,Ventura,250000,54.4,-43,100
+California,2590,California,Alameda,60000,34.8,115,100
+California,2594,California,San Luis Obispo,39000,59,314,100
+California,2623,California,Santa Cruz,12000,30.6,-100,75
+California,2889,California,Santa Cruz,164000,20.4,-28,100
+California,1019,California,Lake,13200,N/A,N/A,N/A
+California,158,California,Fresno,650000,32.75,N/A,100
+California,1640,California,Napa,20256,8.6,N/A,100
+California,2296,California,Contra Costa,218281,31.75,N/A,100
+California,2421,California,Placer,108444,22.4,N/A,100
+California,357,California,San Diego,2200000,N/A,N/A,N/A
+California,59,California,Kern,168750,N/A,N/A,N/A
+California,1690,California,Los Angeles,4000000,42,13,100
+California,1703,California,Marin,53000,22.86,-20,100
+California,1885,California,San Luis Obispo,31037,28.83,-10,100
+California,1910,California,Stanislaus,86000,28.43,-4,100
+California,1911,California,Solano,121000,25,-10,100
+California,1593,California,San Luis Obispo,6031,72.8,-84,100
+California,1712,California,San Mateo,27000,29.4,186,100
+California,2490,California,Los Angeles; Ventura,75000,62,91,100
+California,2536,California,Los Angeles,200000,58.25,212,100
+California,2537,California,Monterey; Santa Cruz,60000,28.5,134,100
+California,2741,California,Nevada,13754,16,-97,75
+California,834,California,Riverside,91980,61,-14,100
+California,1188,California,Ventura,250000,31.17,504379670,100
+California,2361,California,Humboldt,45000,N/A,N/A,N/A
+California,2370,California,San Luis Obispo,47545,35,N/A,100
+California,2397,California,Shasta,60000,22.86,2147483647,100
+California,299,California,Orange,1800000,N/A,N/A,N/A
+California,363,California,San Francisco,9923,35,2269,100
+California,363,California,San Mateo; San Francisco,66446,38,-75,100
+California,363,California,San Mateo; San Francisco,750000,N/A,N/A,N/A
+California,1372,California,Merced,91000,21.57,-5,100
+California,1669,California,Marin,104250,39.4,-35,100
+California,1713,California,Napa,83300,49.29,7,100
+California,1888,California,Sonoma,230000,54.57,8,100
+California,1904,California,San Bernardino,890000,44,1,100
+California,1913,California,Yolo,59000,34.14,17,100
+California,1946,California,Santa Clara,153000,22.4,4,100
+California,2406,California,Santa Cruz,60000,24.5,10,100
+California,2719,California,Yolo,68000,26.5,3,100
+California,2746,California,Placer,130000,19.5,-4,100
+California,2892,California,Sacramento,1480000,29.73,-4,100
+California,352,California,Santa Clara,110338,25.4,-10,100
+California,362,California,San Francisco; San Mateo,250000,30.47,-5,100
+California,1711,California,Marin,18000,30.4,91,100
+California,2669,California,San Luis Obispo,14465,42.75,190,100
+California,2825,California,San Mateo,150000,36.6,58,100
+California,2831,California,San Joaquin,68000,33.75,-31,100
+California,2869,California,Mono,8200,62.8,1327,100
+California,2870,California,San Joaquin,29000,51.4,-98,100
+California,2871,California,San Benito,43000,61.25,63,100
+California,215,California,Los Angeles; Ventura,4000000,N/A,N/A,N/A
+California,2396,California,Sutter,70000,25.5,N/A,100
+California,2436,California,Del Norte,15372,N/A,N/A,N/A
+California,2636,California,Placer; El Dorado; Nevada,50000,N/A,N/A,N/A
+California,356,California,San Bernardino,325000,32.25,N/A,100
+California,363,California,San Francisco,3882,36.75,-39,100
+California,363,California,San Francisco,11738,24.33,N/A,100
+California,363,California,San Francisco,6308,28.5,-71,100
+California,363,California,San Francisco,4416,50,128,100
+California,88,California,Contra Costa,487300,N/A,N/A,N/A
+California,1678,California,Santa Cruz,160000,35.71,-37,100
+California,1872,California,Alameda,229476,44.2,-7,100
+California,1892,California,San Diego,2200000,17.6,-16,100
+California,1896,California,Santa Barbara,69290,45.86,-20,100
+California,1898,California,Monterey,262000,30.14,-4,100
+California,353,California,Santa Clara,1500000,21.87,0,100
+California,393,California,San Mateo,199000,27.91,-3,100
+California,834,California,Riverside,91765,52.43,-6,100
+Colorado,66,Colorado,Boulder,89383,33.6,-77,100
+Colorado,656,Colorado,La Plata,23429,44.2,-98,100
+Colorado,49,Colorado,Adams; Arapahoe,268004,23.2,-62,100
+Colorado,408,Colorado,Summit,35643,36.8,-82,100
+Colorado,117,Colorado,El Paso,303855,31,5639,100
+Colorado,116,Colorado,El Paso,102204,25.6,-84,100
+Colorado,1591,Colorado,Otero,29643,28,693,100
+Colorado,163,Colorado,Weld,83319,33.2,3321807,50
+Colorado,251,Colorado,Jefferson,345454,33,24682,100
+Colorado,372,Colorado,Arapahoe,247443,29.2,-96,100
+Colorado,252,Colorado,Denver,709904,36.2,51,100
+Colorado,329,Colorado,Pueblo,96515,33.6,-97,100
+Colorado,396,Colorado,San Miguel,15000,25,-100,100
+Colorado,1902,Colorado,Douglas,25000,48,-8,100
+Colorado,161,Colorado,Garfield,16714,36.8,2562,100
+Colorado,2693,Colorado,Weld,40071,42,-87,100
+Colorado,2936,Colorado,Douglas,60571,22.4,-37,100
+Colorado,47,Colorado,Pitkin,5500,33.25,17,100
+Colorado,576,Colorado,Routt,43741,46.75,-11,100
+Colorado,737,Colorado,Alamosa,18364,22.25,-100,100
+Colorado,751,Colorado,Mesa,89286,29.25,23,100
+Colorado,1901,Colorado,Douglas,35000,51.86,4,100
+Connecticut,686,Connecticut,New Haven,115000,63.5,-64,100
+Connecticut,2645,Connecticut,Fairfield,52268,71.2,-12,100
+Connecticut,2603,Connecticut,Fairfield,140000,28.71,5,100
+Connecticut,2486,Connecticut,Fairfield,45878,79.4,166,100
+Connecticut,806,Connecticut,Fairfield,85000,80.6,-94,100
+Connecticut,2733,Connecticut,Fairfield,72914,55.6,-92,100
+Connecticut,771,Connecticut,Fairfield,140000,52.6,-68,100
+Connecticut,2650,Connecticut,New London,41000,90.8,134,100
+Connecticut,534,Connecticut,Fairfield,100000,80.4,-75,100
+Connecticut,832,Connecticut,New London,40000,85,-86,100
+Delaware,1194,Delaware,New Castle,539000,59.6,-54,100
+Delaware,1192,Delaware,Sussex,7000,74,-70,100
+Delaware,1187,Delaware,New Castle,17145,72.4,335,100
+Delaware,1185,Delaware,Sussex,4392,74.2,-98,100
+Delaware,1183,Delaware,Sussex,7000,55.75,-23,100
+Delaware,1930,Delaware,Sussex,13172,65.5,9,100
+Delaware,1184,Delaware,Kent,130000,78.25,30,100
+Delaware,1186,Delaware,Sussex,4050,73.8,-4,100
+Delaware,1191,Delaware,Sussex,75000,35.8,-21,100
+District of Columbia,2781,District of Columbia,Fairfax; Prince Georges; Montgomery; Loudoun; District Of Columbia; Arlington,1600000,69.33,3478,100
+Florida,669,Florida,Orange,277823,41.6,N/A,100
+Florida,2919,Florida,Broward,22417,51.4,-91,100
+Florida,1631,Florida,Orange,50000,47.6,N/A,100
+Florida,781,Florida,Miami-Dade,900000,39.4,-11,100
+Florida,1715,Florida,Orange,463672,34.6,-89,100
+Florida,1631,Florida,Orange,80000,32.4,-27,100
+Florida,1631,Florida,Orange,50000,40.57,-28,100
+Florida,2359,Florida,Pinellas,47790,41.71,-33,100
+Florida,1686,Florida,Orange,277823,43,83,100
+Florida,1702,Florida,Orange,59587,37.8,-69,100
+Florida,2637,Florida,Palm Beach; Martin,100000,54.2,-11,100
+Florida,2692,Florida,Sarasota,100000,41.2,-73,100
+Florida,1392,Florida,Hillsborough,180000,55.5,N/A,100
+Florida,1501,Florida,Alachua,100000,N/A,N/A,N/A
+Florida,2327,Florida,Leon,212065,42.8,355,100
+Florida,2851,Florida,Alachua,100000,60.33,N/A,100
+Florida,2911,Florida,Broward,139856,59,-88,100
+Florida,1897,Florida,Palm Beach,90000,32.86,13,100
+Florida,2503,Florida,Escambia,207000,46.4,36,100
+Florida,2587,Florida,Orange; Seminole,95000,20,51,100
+Florida,711,Florida,Miami-Dade,750000,28.6,-61,100
+Florida,1502,Florida,Alachua,100000,N/A,N/A,N/A
+Florida,2769,Florida,Saint Johns,14000,40.6,-24,100
+Florida,2934,Florida,Palm Beach,300000,42,8217103,100
+Florida,511,Florida,Pinellas,103000,57.8,659295,100
+Florida,670,Florida,Orange,59587,27,N/A,100
+Florida,671,Florida,Orange,463672,37.2,N/A,100
+Florida,1686,Florida,Orange,195299,22.57,-7,100
+Florida,1715,Florida,Orange,183009,35.14,20,100
+Florida,2327,Florida,Leon,212065,42.71,-24,100
+Florida,2358,Florida,Pinellas,89847,17.4,9,100
+Florida,1606,Florida,Lee,76800,33,N/A,100
+Florida,1735,Florida,Seminole; Orange,51000,30,2754,100
+Florida,2422,Florida,Pinellas,220000,56.25,N/A,100
+Florida,2935,Florida,Volusia,45185,45,-100,100
+Florida,1702,Florida,Orange; Pinellas,94218,35.9,-2,88
+Florida,1840,Florida,Miami-Dade,776150,29.29,64,100
+Florida,1868,Florida,Miami-Dade,829725,21.71,3,100
+Georgia,2715,Georgia,Clayton,123715,0.5,N/A,0
+Georgia,2707,Georgia,Houston,120000,0.5,N/A,0
+Georgia,2702,Georgia,Richmond,198000,N/A,N/A,N/A
+Georgia,1697,Georgia,Fulton,12818,60.29,-11,100
+Georgia,2698,Georgia,Forsyth,36500,31.25,N/A,100
+Georgia,2703,Georgia,Cobb,190000,54.5,N/A,100
+Georgia,2705,Georgia,Paulding,8000,N/A,N/A,N/A
+Georgia,2706,Georgia,Floyd,75000,62.75,N/A,100
+Georgia,2710,Georgia,Cobb,190000,8,N/A,0
+Georgia,2862,Georgia,Peach,8008,N/A,N/A,N/A
+Georgia,1663,Georgia,Fulton,189593,57.14,5,100
+Georgia,2696,Georgia,Dougherty,50000,N/A,N/A,N/A
+Georgia,2699,Georgia,Gwinnett,650000,7.75,N/A,0
+Georgia,2709,Georgia,Douglas,180000,N/A,N/A,N/A
+Georgia,1666,Georgia,Fulton,73821,54.86,-7,100
+Georgia,1740,Georgia,Fulton,294660,31.29,4,100
+Georgia,1741,Georgia,Fulton,105160,57.33,11,100
+Georgia,1742,Georgia,Fulton,70887,67.71,-14,100
+Georgia,2704,Georgia,Clarke,60000,43,N/A,100
+Georgia,2713,Georgia,Paulding,10000,N/A,N/A,N/A
+Georgia,2716,Georgia,Newton,32000,39.5,N/A,100
+Georgia,1692,Georgia,Fulton,84486,59.57,-7,100
+Georgia,1714,Georgia,Chattahoochee; Muscogee,278000,78.4,25,100
+Hawaii,2668,Hawaii,Honolulu,340000,38,-25,100
+Hawaii,2484,Hawaii,Hawaii,32604,28.8,-87,100
+Hawaii,2297,Hawaii,Honolulu,300000,17.71,-9,100
+Hawaii,2299,Hawaii,Honolulu,390000,12.67,-5,100
+Hawaii,2610,Hawaii,Honolulu,101000,32.8,235,100
+Hawaii,2675,Hawaii,Honolulu,47000,21.6,1296,75
+Hawaii,1175,Hawaii,Maui,50700,33,430,100
+Hawaii,1205,Hawaii,Maui,46800,22.4,7,100
+Hawaii,2674,Hawaii,Honolulu,19000,20,3373,100
+Hawaii,2679,Hawaii,Maui,58900,21.2,590,100
+Hawaii,2672,Hawaii,Honolulu,400000,24.8,-3,100
+Idaho,2824,Idaho,Latah,25500,40.2,391,100
+Idaho,2863,Idaho,Ada,195813,51.4,29,100
+Idaho,1842,Idaho,Ada,186901,28.14,0,100
+Idaho,1879,Idaho,Kootenai,50540,60.43,7,100
+Idaho,813,Idaho,Ada,108556,37.14,-8,100
+Idaho,2846,Idaho,Ada,105893,37.4,-74,100
+Illinois,981,Illinois,De Kalb,45000,44.8,-1,100
+Illinois,871,Illinois,La Salle,18768,29.2,88818,100
+Illinois,699,Illinois,Tazewell,32540,30.5,83,100
+Illinois,642,Illinois,Du Page,164781,34,423,100
+Illinois,633,Illinois,Warren,10836,50.75,-12,100
+Illinois,632,Illinois,Cook,270647,39.8,4716,100
+Illinois,620,Illinois,Macon,88500,41.8,15,100
+Illinois,612,Illinois,Greene,3064,36.6,-46,33
+Illinois,611,Illinois,Fulton,13506,42,337,100
+Illinois,607,Illinois,Boone,25134,43.4,-55,100
+Illinois,606,Illinois,Saint Clair,26150,44.2,1458,100
+Illinois,603,Illinois,Kane,11290,64.8,88,100
+Illinois,2946,Illinois,Coles,17000,new site,1074,100
+Illinois,2842,Illinois,Kane,25766,71.75,304,100
+Illinois,2841,Illinois,Kane,143088,73.6,15,100
+Illinois,1943,Illinois,Sangamon,102000,58.2,-75,100
+Illinois,1816,Illinois,Madison,26000,21,461,100
+Illinois,1721,Illinois,Du Page,63000,72.71,4,100
+Illinois,1243,Illinois,Du Page,76324,33.6,-99,75
+Illinois,1527,Illinois,Kendall,13477,42,27,100
+Illinois,1610,Illinois,Washington,3425,53.67,5376,100
+Illinois,1817,Illinois,Iroquois,4700,51.6,241,100
+Illinois,1847,Illinois,Du Page,65000,50.6,5290,100
+Illinois,2126,Illinois,Perry,6448,54.75,954,100
+Illinois,2306,Illinois,Champaign,52000,45,19102,100
+Illinois,605,Illinois,Saint Clair,26150,45.6,235395,67
+Illinois,615,Illinois,Randolph,6814,62.75,911,100
+Illinois,619,Illinois,Vermilion,30479,35,737,100
+Illinois,625,Illinois,Jo Daviess,3460,54.8,-100,100
+Illinois,631,Illinois,Mcdonough,15052,67,-98,100
+Illinois,638,Illinois,Cook,1127737,50.2,-70,100
+Illinois,645,Illinois,Lake,126629,55.4,127,100
+Illinois,647,Illinois,Peoria,131000,48.2,-13,100
+Illinois,655,Illinois,Champaign,91041,48.4,156,100
+Illinois,674,Chicago,Cook,721207,70.4,-47,100
+Illinois,675,Chicago,Cook,29370,76.2,-56,100
+Illinois,675,Chicago,Cook,83455,61.4,-65,100
+Illinois,697,Illinois,Rock Island,25202,51.5,786,100
+Illinois,698,Illinois,Rock Island,43768,65.75,710,100
+Illinois,894,Illinois,Lee,15115,52.4,-22,100
+Illinois,1100,Illinois,Du Page,40438,59,296,100
+Illinois,1247,Illinois,Lake,80000,63.2,942,100
+Illinois,1316,Illinois,Will,50458,43.8,79,100
+Illinois,1326,Illinois,Saint Clair,85593,49.75,679,100
+Illinois,1586,Illinois,Mchenry,15360,66.2,402,100
+Illinois,1609,Illinois,Du Page,45000,37.8,1134,100
+Illinois,1848,Illinois,Du Page,83772,52.2,-31,100
+Illinois,1849,Illinois,Mchenry,10240,66.2,512,100
+Illinois,1944,Illinois,Sangamon,50000,47.2,355,100
+Illinois,2843,Illinois,Kane,44703,72.6,23,100
+Illinois,2887,Illinois,Kendall,286000,71.75,2895,100
+Illinois,604,Illinois,Cass,5446,60.6,9,100
+Illinois,618,Illinois,Mchenry,4288,52.8,-93,100
+Illinois,635,Chicago,Cook,23475,55,-31,100
+Illinois,637,Illinois,Cook,13098,64.6,-63,100
+Illinois,639,Illinois,Cook,1127736,28.2,-92,100
+Illinois,649,Illinois,Bureau,7555,39.6,2006,100
+Illinois,650,Illinois,Adams,50695,30.2,-24,100
+Illinois,652,Illinois,Shelby,5329,80.6,-49,100
+Illinois,675,Chicago,Cook,77799,92.6,-20,100
+Illinois,675,Chicago,Cook,467536,97,-17,100
+Illinois,983,Illinois,Mchenry,15947,31.6,-61,100
+Illinois,984,Illinois,Du Page,18800,40,-37,100
+Illinois,1689,Illinois,Du Page,86000,53.29,21,100
+Illinois,1252,Illinois,Du Page,59805,32.8,209,100
+Illinois,2125,Illinois,Saint Clair,32289,62.67,763,100
+Illinois,2852,Illinois,Cook,1263110,26.4,-66,100
+Illinois,462,Illinois,Winnebago,353599,45.75,-97,100
+Illinois,616,Illinois,Christian,12663,59.8,-51,100
+Illinois,617,Illinois,Mchenry,36552,38,-33,100
+Illinois,622,Illinois,Effingham,12384,42.6,-32,100
+Illinois,624,Illinois,Stephenson,23650,30.6,1325,100
+Illinois,626,Illinois,Knox,39153,49.2,38,100
+Illinois,627,Illinois,Morgan,23818,35.8,-71,67
+Illinois,628,Illinois,Kankakee,56317,37.2,-100,67
+Illinois,635,Chicago,Cook,125995,97.5,-25,100
+Illinois,635,Illinois,Cook,1134897,55,8410,100
+Illinois,636,Illinois,Cook,110394,39,-14,100
+Illinois,641,Illinois,Cook,217106,30.2,1464,100
+Illinois,643,Illinois,Lake,55735,44,26,100
+Illinois,644,Illinois,Lake,105208,63.8,-70,100
+Illinois,651,Illinois,Carroll,5615,50,-64,100
+Illinois,653,Illinois,Macoupin,4480,45.2,13310,50
+Illinois,654,Illinois,Whiteside,18678,31.4,-97,100
+Illinois,731,Illinois,Bureau,5400,35.6,2026,100
+Illinois,857,Illinois,Lawrence,4399,27.33,198219256,50
+Indiana,828,Indiana,Hamilton,86000,59.6,328,100
+Indiana,2933,Indiana,Elkhart,51600,61.8,4,100
+Indiana,2848,Indiana,Vanderburgh,61000,80.8,-35,100
+Indiana,2343,Indiana,Wayne,36000,83.6,1478,100
+Indiana,2342,Indiana,Vigo,58500,76.8,1336,100
+Indiana,2341,Indiana,St Joseph,130000,55,-54,100
+Indiana,2337,Indiana,Tippecanoe,60000,69.6,1047,100
+Indiana,1619,Indiana,Marion,800000,76,-55,100
+Indiana,1479,Indiana,Elkhart,35000,82.2,-21,100
+Indiana,1458,Indiana,Noble,10000,72.2,-43,100
+Indiana,1738,Indiana,Clark,25000,80.86,-18,100
+Indiana,1459,Indiana,Jasper,5800,69,57,100
+Indiana,2481,Indiana,Lawrence,12000,56.2,127,75
+Indiana,2832,Indiana,Warrick,10260,70,795,50
+Indiana,1456,Indiana,Clark,21000,91.2,-82,100
+Indiana,2336,Indiana,Delaware,67000,44.2,101,67
+Indiana,2340,Indiana,Lake,28000,82.2,142,100
+Indiana,2372,Indiana,Kosciusko,21600,52.8,1619,67
+Indiana,2387,Indiana,Allen,315000,73.6,19,100
+Indiana,2388,Indiana,Howard,45000,39,-21,33
+Indiana,765,Indiana,Monroe,28350,58.8,-51,100
+Indiana,1739,Indiana,Clark,25000,52,14,100
+Indiana,1889,Indiana,St Joseph,130000,67.71,-8,100
+Indiana,772,Indiana,Monroe,56090,70.17,-5,100
+Indiana,828,Indiana,Hamilton,86000,57.86,10,100
+Indiana,2335,Indiana,Dubois,16000,80.25,-71,100
+Indiana,2357,Indiana,Hamilton,98000,61.6,-36,100
+Indiana,2840,Indiana,Bartholomew,50000,82.2,-8,100
+Indiana,2847,Indiana,Vanderburgh,55000,79.2,0,100
+Indiana,2912,Indiana,Lake,200000,66.75,17,100
+Indiana,772,Indiana,Monroe,67500,75,-84,100
+Iowa,1884,Iowa,Marshall,27400,34,-6,100
+Iowa,2488,Iowa,Union; Dakota; Woodbury,110000,64.4,43,100
+Iowa,544,Iowa,Johnson,75000,72.4,149,100
+Iowa,1783,Iowa,Muscatine,24400,82.71,-19,100
+Iowa,1791,Iowa,Wapello,25529,52.71,21,100
+Iowa,2770,Iowa,Scott,141344,69.6,-72,100
+Iowa,2803,Iowa,Linn,137210,74.67,-99,100
+Iowa,1839,Iowa,Clinton,29300,74.43,10,100
+Iowa,1867,Iowa,Johnson,23000,57.57,-8,100
+Kansas,2670,Kansas,Shawnee,95000,80.6,323,100
+Kansas,1895,Kansas,Douglas,80000,52.67,12,100
+Kansas,1813,Kansas,Wyandotte,15000,71,0,100
+Kansas,833,Kansas,Shawnee,40000,73.6,25,100
+Kansas,1710,Kansas,Saline,47000,43.57,4,100
+Kansas,1811,Kansas,Wyandotte,35000,66,160,100
+Kansas,1900,Kansas,Wyandotte,90000,55,4,100
+Kentucky,2793,Kentucky,Jessamine,164960,46.6,14,75
+Kentucky,2655,Kentucky,Shelby,32160,76.25,155,100
+Kentucky,2651,Kentucky,Calloway,28837,62,-68,100
+Kentucky,1253,Kentucky,Boyd,21654,76,91,100
+Kentucky,2652,Kentucky,Warren,67233,76.5,-93,100
+Kentucky,2789,Kentucky,Carter,4614,52,N/A,100
+Kentucky,2790,Kentucky,Pike,10435,35.5,N/A,100
+Kentucky,901,Kentucky,Jefferson,55928,83.2,-71,100
+Kentucky,2116,Kentucky,Perry,7303,36.67,13,0
+Kentucky,2653,Kentucky,Pulaski,7500,55.6,2406,75
+Kentucky,2748,Kentucky,Kenton,212000,69,-38,100
+Kentucky,2791,Kentucky,Floyd,8187,32,N/A,100
+Kentucky,903,Kentucky,Jefferson,32460,78.8,-23,100
+Kentucky,905,Kentucky,Jefferson,349850,84.2,-89,100
+Kentucky,2654,Kentucky,Madison,37000,66.75,-11,100
+Kentucky,2792,Kentucky,Fayette,121386,46.4,242,75
+Kentucky,902,Kentucky,Jefferson,295910,44.2,-94,50
+Kentucky,904,Kentucky,Jefferson,31269,92.2,-80,100
+Kentucky,1899,Kentucky,Jefferson,423913,54,-27,80
+Louisiana,2838,Louisiana,Acadia,8552,59.25,N/A,100
+Louisiana,2804,Louisiana,Lincoln,22500,68.2,N/A,100
+Louisiana,2784,Louisiana,Vernon,18000,36.8,N/A,100
+Louisiana,2774,Louisiana,La Salle,4146,73,25,100
+Louisiana,2691,Louisiana,Caddo,5300,73.4,N/A,100
+Louisiana,2225,Louisiana,Jefferson,10800,32.75,N/A,0
+Louisiana,1976,Louisiana,Jefferson,173101,73.75,N/A,100
+Louisiana,1973,Louisiana,Livingston,7477,64.67,N/A,100
+Louisiana,1968,Louisiana,East Feliciana,7811,52,N/A,100
+Louisiana,1965,Louisiana,Saint Mary,9700,68.5,N/A,100
+Louisiana,1964,Louisiana,Union,4000,N/A,34,100
+Louisiana,1959,Louisiana,Washington,13675,93,1064,50
+Louisiana,1928,Louisiana,Ouachita,12600,N/A,3,0
+Louisiana,1924,Louisiana,Ouachita,76000,90.6,19,100
+Louisiana,1919,Louisiana,Bienville,3500,N/A,N/A,0
+Louisiana,1858,Louisiana,Terrebonne,30000,62.67,-20,100
+Louisiana,2947,Louisiana,Orleans,50591,62,767,86
+Louisiana,2665,Louisiana,Saint Tammany,15000,48.2,502,100
+Louisiana,1651,Louisiana,Lafayette,5000,58,-27,100
+Louisiana,2618,Louisiana,Orleans,50591,37.17,3,100
+Louisiana,1650,Louisiana,Lafayette,13000,64.6,-25,100
+Louisiana,2659,Louisiana,Lafayette,20000,55.2,-51,100
+Louisiana,1567,Louisiana,Livingston,12342,36.6,N/A,100
+Louisiana,1794,Louisiana,Plaquemines,7500,54.75,N/A,0
+Louisiana,1929,Louisiana,Ouachita,30000,N/A,7,0
+Louisiana,1962,Louisiana,Beauregard,11000,42.2,N/A,100
+Louisiana,1978,Louisiana,Natchitoches,19000,69,N/A,100
+Louisiana,1979,Louisiana,Iberia,36123,46.5,N/A,100
+Louisiana,1980,Louisiana,Allen,8137,61,N/A,100
+Louisiana,1981,Louisiana,Richland,3695,95.33,-92,100
+Louisiana,2012,Louisiana,Tangipahoa,6000,36.25,-100,50
+Louisiana,2039,Louisiana,West Baton Rouge,6416,71.8,N/A,100
+Louisiana,2204,Louisiana,Saint Tammany,10000,33.75,5,0
+Louisiana,2775,Louisiana,Evangeline,8200,48.8,N/A,100
+Louisiana,2799,Louisiana,Concordia,6354,65.8,170,50
+Louisiana,2827,Louisiana,Saint Bernard,45000,51.2,427,100
+Louisiana,2849,Louisiana,Saint Mary,17000,31,N/A,0
+Louisiana,1823,Louisiana,Jefferson,333342,49.25,N/A,100
+Louisiana,1857,Louisiana,Terrebonne,50000,57,3,100
+Louisiana,1961,Louisiana,Calcasieu,36720,79.33,N/A,100
+Louisiana,1967,Louisiana,Jefferson,163451,60.75,N/A,100
+Louisiana,2100,Louisiana,Acadia,14557,89,N/A,100
+Louisiana,2203,Louisiana,Saint Tammany,10000,N/A,N/A,N/A
+Louisiana,2771,Louisiana,Saint Charles,25000,53,N/A,100
+Louisiana,1652,Louisiana,Lafayette,23000,21.8,69,100
+Louisiana,2694,Louisiana,Jefferson,64000,52.2,77,100
+Louisiana,1574,Louisiana,Lafourche,14566,43.6,19,0
+Louisiana,1960,Louisiana,Jefferson,50652,49,N/A,0
+Louisiana,1977,Louisiana,Saint Mary,16779,42,227,100
+Louisiana,2011,Louisiana,Red River,3838,N/A,N/A,100
+Louisiana,2772,Louisiana,Saint Charles,12300,40.5,N/A,0
+Louisiana,2773,Louisiana,Bossier,4500,73.8,N/A,100
+Louisiana,2893,Louisiana,Franklin,4910,51.6,166,100
+Louisiana,2617,Louisiana,Orleans,333406,53.5,-28,100
+Maine,2001,Maine,Cumberland,24000,30.5,-100,100
+Maine,2000,Maine,Aroostook,9000,11,-37,100
+Maine,1992,Maine,Cumberland,65000,43,41,100
+Maine,1990,Maine,Penobscot,57000,47.2,-69,100
+Maine,65,Maine,Lincoln,2222,38.25,1897,100
+Maine,2498,Maine,Cumberland,8500,56.6,31,100
+Maine,2077,Maine,Penobscot,20000,80.4,-20,100
+Maine,2500,Maine,Aroostook,5000,27.6,178,100
+Maine,2595,Maine,Oxford,1500,56.5,142,100
+Maine,2681,Maine,Cumberland,6000,31,-65,100
+Maine,347,Maine,Knox,7000,60,-54,100
+Maine,1987,Maine,Waldo,4000,45.8,-100,100
+Maine,1993,Maine,Penobscot,2500,66.6,-69,100
+Maine,1996,Maine,Aroostook,5000,35,-100,100
+Maine,2511,Maine,York,16000,63.6,-100,100
+Maine,1989,Maine,Cumberland,15000,40,193,100
+Maine,2001,Maine,Cumberland,24000,new site,N/A,100
+Maine,2002,Maine,York,15000,44.2,-99,100
+Maine,1992,Maine,Cumberland,65000,38.14,5,100
+Maine,2873,Maine,Androscoggin,60000,52.67,-32,100
+Maine,2475,Maine,York,20000,46,-97,100
+Maine,2489,Maine,Piscataquis,1000,70,N/A,100
+Maine,2501,Maine,Sagadahoc,8700,56.4,-57,100
+Maine,1994,Maine,Aroostook,2400,35.2,-100,67
+Maine,1995,Maine,Kennebec,19000,66,-58,100
+Maine,2598,Maine,Penobscot,40000,55.86,-4,100
+Maryland,2953,Maryland,Montgomery,208364,new site,N/A,100
+Maryland,1284,Maryland,Anne Arundel,78365,57,-32,100
+Maryland,1262,Maryland,Anne Arundel,11802,80,-49,100
+Maryland,1260,Maryland,Anne Arundel,89319,28.75,-81,75
+Maryland,1782,Maryland,Washington,90000,59.14,17,100
+Maryland,1268,Maryland,Anne Arundel,150078,65.4,-56,100
+Maryland,1285,Maryland,Anne Arundel,13296,56.25,-74,100
+Maryland,1808,Maryland,Saint Marys,55000,79.2,9,100
+Maryland,2518,Maryland,Washington,90000,83.8,-37,100
+Maryland,1261,Maryland,Anne Arundel,91838,82.6,-25,100
+Maryland,1278,Maryland,Anne Arundel,22660,60.8,-47,100
+Maryland,2495,Maryland,Garrett,3000,37.75,87,100
+Massachusetts,1038,Massachusetts,Suffolk; Middlesex; Norfolk,1075656,62.6,49,100
+Massachusetts,1037,Massachusetts,Middlesex; Suffolk,1375228,66.4,-61,100
+Massachusetts,2522,Massachusetts,Hampden,55000,48,247616,67
+Massachusetts,2539,Massachusetts,Middlesex,228285,52,-62,100
+Massachusetts,1780,Massachusetts,Worcester; Norfolk; Suffolk; Plymouth; Middlesex,2400000,45.29,19,100
+Massachusetts,2678,Massachusetts,Worcester,42000,60,148,100
+Massachusetts,2032,Massachusetts,Worcester,250000,42,-20,100
+Michigan,891,Michigan,Kalamazoo,39068,42.6,29,100
+Michigan,891,Michigan,Kalamazoo,14378,8,171,0
+Michigan,890,Michigan,Ottawa,36912,21.5,-94,50
+Michigan,890,Michigan,Ottawa,8278,57.6,50,67
+Michigan,890,Michigan,Ottawa,15498,63.5,-39,67
+Michigan,889,Michigan,Ottawa,45608,53,-75,100
+Michigan,889,Michigan,Ottawa,6524,59.6,-98,67
+Michigan,889,Michigan,Ottawa,6657,77,75,100
+Michigan,860,Michigan,Gratiot,8976,32.4,-100,50
+Michigan,823,Michigan,Houghton,14000,12.2,177,100
+Michigan,801,Michigan,Grand Traverse,45000,N/A,N/A,N/A
+Michigan,801,Michigan,Grand Traverse,10000,N/A,N/A,N/A
+Michigan,800,Michigan,Genesee,95000,59.4,-42,100
+Michigan,757,Michigan,Jackson,90000,60.31,-57,100
+Michigan,756,Michigan,Kent,265000,17.2,-80,100
+Michigan,1815,Michigan,Arenac,5500,45.6,666,33
+Michigan,1599,Michigan,Eaton,9074,57.8,-6,100
+Michigan,1167,Michigan,Kent,15000,27,63,67
+Michigan,1138,Michigan,Isabella,25629,35,N/A,100
+Michigan,1125,Michigan,Marquette,4500,45,N/A,0
+Michigan,1125,Michigan,Marquette,4500,51,N/A,100
+Michigan,1122,Michigan,Otsego,3670,29.5,250,100
+Michigan,1121,Michigan,Saginaw,6300,25.67,-42,50
+Michigan,1096,Michigan,Muskegon,125000,N/A,N/A,N/A
+Michigan,1092,Michigan,Chippewa,15000,20,84,50
+Michigan,1091,Michigan,Schoolcraft,3412,36.67,N/A,100
+Michigan,1088,Michigan,Ottawa,25000,25.2,24,100
+Michigan,1088,Michigan,Ottawa,3000,76.6,-61,100
+Michigan,1890,Michigan,Macomb,140000,76.5,2,100
+Michigan,2208,Michigan,Isabella,21690,79.83,-6,100
+Michigan,1018,Michigan,Bay,20000,29.6,-95,100
+Michigan,1020,Michigan,Dickinson,3200,11.67,N/A,100
+Michigan,1040,Michigan,Ottawa,3535,64.2,22,67
+Michigan,1040,Michigan,Ottawa,11200,34.6,-78,67
+Michigan,1048,Michigan,Calhoun,6964,42,460,33
+Michigan,1086,Michigan,Ottawa,20000,35,-61,100
+Michigan,1102,Michigan,Dickinson,13500,12.33,N/A,0
+Michigan,1125,Michigan,Marquette,3500,29.33,N/A,100
+Michigan,1136,Michigan,Clare,3042,66,N/A,100
+Michigan,1155,Michigan,Tuscola,3000,19.67,98,50
+Michigan,1168,Michigan,Kent,68000,38.6,271,100
+Michigan,801,Michigan,Grand Traverse,29400,N/A,N/A,N/A
+Michigan,874,Michigan,Emmet,7900,10.25,3,100
+Michigan,891,Michigan,Kalamazoo,12366,66.2,-69,100
+Michigan,896,Michigan,Wayne; Macomb,492000,96.2,4326,0
+Michigan,898,Michigan,Oakland; Wayne,840600,97.2,2211,50
+Michigan,1691,Michigan,Jackson,90000,75.29,-10,100
+Michigan,1781,Michigan,Kent,75000,78.43,-4,100
+Michigan,1878,Michigan,Washtenaw,125000,22.67,-6,100
+Michigan,1036,Michigan,Allegan,5500,47.2,199,100
+Michigan,1088,Michigan,Ottawa,10000,46.6,35,100
+Michigan,1089,Michigan,Chippewa,6546,40.67,146,0
+Michigan,1090,Michigan,Manistee,8154,48.75,122,0
+Michigan,1090,Michigan,Manistee,8154,58,-96,33
+Michigan,1093,Michigan,Mackinac,3460,10.67,-2,100
+Michigan,1096,Michigan,Muskegon,5000,N/A,N/A,N/A
+Michigan,1096,Michigan,Muskegon,28000,N/A,N/A,N/A
+Michigan,1105,Michigan,Menominee,3842,13.33,N/A,0
+Michigan,1125,Michigan,Marquette,3500,45,N/A,0
+Michigan,1214,Michigan,Kent,40000,25.6,84,100
+Michigan,1627,Michigan,Gogebic,6500,9.33,N/A,0
+Michigan,1952,Michigan,Baraga,8320,30.33,303,50
+Michigan,888,Michigan,Calhoun,70000,26,139,33
+Michigan,889,Michigan,Ottawa,11057,48.4,125,100
+Michigan,891,Michigan,Kalamazoo,20122,40.6,-34,33
+Michigan,891,Michigan,Kalamazoo,9709,27.8,594,33
+Michigan,891,Michigan,Kalamazoo,3416,17.2,-90,33
+Michigan,891,Michigan,Kalamazoo,11246,63,1842,100
+Michigan,891,Michigan,Kalamazoo,31189,30.4,-42,67
+Michigan,891,Michigan,Kalamazoo,194170,12,198,33
+Michigan,897,Michigan,Oakland; Macomb,1482000,97.2,2211,50
+Michigan,1040,Michigan,Ottawa,3511,0,0,0
+Michigan,1049,Michigan,Allegan,3777,61.8,128,100
+Michigan,1088,Michigan,Ottawa,8000,54.4,-37,100
+Michigan,1090,Michigan,Manistee,8154,42.5,24,67
+Michigan,1096,Michigan,Muskegon,32000,N/A,N/A,N/A
+Michigan,1106,Michigan,Iosco,5000,57.5,N/A,100
+Michigan,1125,Michigan,Marquette,25000,N/A,N/A,N/A
+Michigan,1166,Michigan,Huron,4000,46.33,-78,100
+Michigan,1215,Michigan,Kent,41000,26.2,98,75
+Michigan,1216,Michigan,Midland,40000,26.6,-89,100
+Michigan,1217,Michigan,Kent,145000,16.4,347,67
+Michigan,1585,Michigan,Kent,7000,44.75,214,100
+Michigan,761,Michigan,Lenawee,8680,62.08,-26,100
+Michigan,762,Michigan,Washtenaw,330000,40.08,100,100
+Michigan,799,Michigan,Washtenaw,150000,33.77,59,100
+Michigan,822,Michigan,Delta,12600,16,N/A,100
+Michigan,861,Michigan,Saginaw,40000,25.4,-37,100
+Michigan,890,Michigan,Ottawa,11955,77.75,-31,100
+Michigan,891,Michigan,Kalamazoo,6703,55.2,-78,100
+Michigan,891,Michigan,Kalamazoo,45976,24.6,-93,67
+Michigan,1909,Michigan,Grand Traverse,30623,62,2,100
+Minnesota,2260,Minnesota,Nobles,13372,68.8,-98,100
+Minnesota,2257,Minnesota,Saint Louis; Carlton,98018,63.75,-94,100
+Minnesota,2253,Minnesota,Hennepin,10308,56.4,83,100
+Minnesota,2248,Minnesota,Le Sueur; Scott,8201,62.8,-100,100
+Minnesota,2246,Minnesota,Clay,44602,82,-91,100
+Minnesota,2237,Minnesota,Otter Tail,13922,59.4,-65,100
+Minnesota,2233,Minnesota,Washington,83209,70.6,64,100
+Minnesota,2231,Minnesota,Isanti,9604,69.2,-98,100
+Minnesota,2263,Minnesota,Goodhue,16000,59.14,5,100
+Minnesota,2616,Minnesota,Benton; Stearns; Sherburne,120000,69.57,0,100
+Minnesota,1048,Minnesota,Lyon,13867,47.25,-100,67
+Minnesota,2230,Minnesota,Hennepin; Carver; Scott,296546,59.6,302,100
+Minnesota,2232,Minnesota,Saint Louis,4904,54,2409,100
+Minnesota,2235,Minnesota,Sherburne,26226,39,-40,100
+Minnesota,2243,Minnesota,Le Sueur,3863,87,-68,100
+Minnesota,2252,Minnesota,Olmsted,122657,63,-97,100
+Minnesota,249,Minnesota,Hennepin; Washington; Dakota; Anoka; Ramsey,1913563,67,97,100
+Minnesota,1886,Minnesota,Olmsted,120000,51.29,-8,100
+Minnesota,1108,Minnesota,Scott; Hennepin; Dakota,254932,68.6,78,100
+Minnesota,2236,Minnesota,Dakota,153791,58.5,-28,100
+Minnesota,2244,Minnesota,Morrison,9119,66.75,70,100
+Minnesota,2250,Minnesota,Chisago,11442,N/A,N/A,N/A
+Minnesota,2251,Minnesota,Rice; Dakota,22126,41.75,-98,100
+Minnesota,2254,Minnesota,Stearns; Sherburne; Benton,71945,58.33,28,100
+Minnesota,2226,Minnesota,Freeborn,17930,89.33,0,100
+Minnesota,2227,Minnesota,Dodge,13919,76,-68,100
+Minnesota,2238,Minnesota,Mille Lacs,4137,60,5,100
+Minnesota,2240,Minnesota,Dakota,21834,75.8,14,100
+Minnesota,2245,Minnesota,Blue Earth,44586,57.4,-37,100
+Minnesota,2247,Minnesota,Kanabec,3631,71.8,-93,100
+Minnesota,2255,Minnesota,Washington,27857,50.8,-7,100
+Minnesota,2256,Minnesota,Pennington,9265,70.6,5454,100
+Minnesota,2258,Minnesota,Kandiyohi,20201,47.2,-60,100
+Minnesota,1883,Minnesota,Blue Earth; Nicollet,70000,86.71,-9,100
+Mississippi,2480,Mississippi,Jackson,34333,50.17,-14,100
+Mississippi,2943,Mississippi,Lafayette,25000,76.4,N/A,100
+Mississippi,2944,Mississippi,Hinds,150000,new site,0,0
+Mississippi,2479,Mississippi,Jackson,19008,48.25,27,100
+Missouri,858,Missouri,Cass; Jackson,367300,N/A,N/A,N/A
+Missouri,438,Missouri,Saint Charles,44852,26.33,-5,100
+Missouri,424,Missouri,Johnson,14477,N/A,N/A,N/A
+Missouri,404,Missouri,Lincoln,12019,48.33,1379,100
+Missouri,380,Missouri,Greene,22818,21.33,N/A,100
+Missouri,365,Missouri,Scott; New Madrid,17000,N/A,N/A,N/A
+Missouri,265,Missouri,Saint Louis,149112,27.33,-100,50
+Missouri,202,Missouri,Dunklin,11300,53,N/A,100
+Missouri,198,Missouri,Clay,12000,42.67,-99,100
+Missouri,196,Missouri,Jackson,25000,36.67,-51,100
+Missouri,194,Missouri,Platte; Clay,76759,43,N/A,100
+Missouri,190,Missouri,Callaway; Cole,41153,29.67,231,100
+Missouri,192,Missouri,Jasper,34403,76,-80,100
+Missouri,195,Missouri,Cass; Jackson; Johnson,490000,64.67,-70,100
+Missouri,200,Missouri,Johnson; Jackson; Wyandotte,61250,46,-97,100
+Missouri,218,Missouri,Clay,35300,N/A,N/A,N/A
+Missouri,266,Missouri,Jefferson; Saint Louis,24174,46.33,113,100
+Missouri,268,Missouri,Saint Louis,451367,57,-90,100
+Missouri,280,Missouri,Vernon,8082,56.33,N/A,100
+Missouri,284,Missouri,Christian,20000,N/A,N/A,N/A
+Missouri,317,Missouri,Platte,8000,52.33,-99,100
+Missouri,407,Missouri,Franklin,7936,84,N/A,100
+Missouri,441,Missouri,Howell,12000,36.33,N/A,100
+Missouri,827,Missouri,Dent,4512,40.33,316,100
+Missouri,114,Missouri,Henry,9118,62.67,-99,100
+Missouri,133,Missouri,Saint Charles,47758,51,N/A,100
+Missouri,156,Missouri,Madison,4000,34,1120,100
+Missouri,199,Missouri,Platte; Clay,12855,17,-98,50
+Missouri,240,Missouri,Webster,8000,20.5,N/A,100
+Missouri,259,Missouri,Barry; Lawrence,9100,67.67,N/A,100
+Missouri,264,Missouri,Saint Louis; Saint Louis City,306647,37.33,-98,50
+Missouri,267,Missouri,Saint Louis,115895,66.33,-91,100
+Missouri,269,Missouri,Jefferson; Saint Louis,66738,26,-79,100
+Missouri,279,Missouri,Newton,12000,21.33,N/A,0
+Missouri,381,Missouri,Greene; Christian,151966,33,N/A,0
+Missouri,423,Missouri,Johnson,11883,6,N/A,0
+Missouri,81,Missouri,Cape Girardeau; Scott,33540,46.33,-89,100
+Missouri,2671,Missouri,Jefferson,48000,64.5,-40,100
+Missouri,119,Missouri,Boone,123180,35.67,-43,100
+Missouri,132,Missouri,Saint Charles,58777,35.67,N/A,100
+Missouri,191,Missouri,Newton,15906,42,7230,100
+Missouri,197,Missouri,Clay; Platte,13940,31,166,100
+Missouri,2068,Missouri,Laclede,15000,19,N/A,100
+Missouri,230,Missouri,Macon,5471,62,-46,100
+Missouri,253,Missouri,Audrain,11500,33.5,N/A,100
+Missouri,270,Missouri,Saint Louis; Saint Charles,174537,36.33,-100,50
+Missouri,385,Missouri,Buchanan,27000,27,-24,0
+Missouri,386,Missouri,Saint Charles,60000,53.33,197,100
+Missouri,429,Missouri,Franklin,15000,41,N/A,100
+Missouri,71,Missouri,Linn,3979,56.33,N/A,100
+Missouri,87,Missouri,Barry,3300,12.33,24,0
+Missouri,95,Missouri,Livingston,9000,35.67,-80,100
+Montana,2635,Montana,Hill,10000,66.67,750,100
+Montana,2407,Montana,Park,8700,70.67,39119036,N/A
+Montana,2718,Montana,Silver Bow,35000,10.2,989,100
+Montana,977,Montana,Lewis And Clark,37125,45.4,127,100
+Montana,1310,Montana,Gallatin,50000,61.5,N/A,N/A
+Montana,976,Montana,Lewis And Clark,2273,48.4,-96,100
+Nebraska,1331,Nebraska,York,8000,68.4,-47,100
+Nebraska,922,Nebraska,Lancaster,100000,53.2,-28,100
+Nebraska,925,Nebraska,Lancaster,200000,70.4,46,100
+Nebraska,2614,Nebraska,Lancaster,60000,45.29,25,100
+Nebraska,1799,Nebraska,Nemaha,3800,49.6,1,100
+Nebraska,915,Nebraska,Dawes,5561,53.4,67,100
+Nebraska,918,Nebraska,Hall,52000,43.8,1367,100
+Nebraska,920,Nebraska,Buffalo,33790,21,-74,100
+Nebraska,916,Nebraska,Platte,23000,53.6,-97,100
+Nebraska,917,Nebraska,Dodge,28000,82.5,-78,100
+Nebraska,919,Nebraska,Adams,24692,71.6,6,100
+Nebraska,921,Nebraska,Douglas,200000,65,139,100
+Nebraska,923,Nebraska,Douglas; Sarpy,600000,73.4,132,100
+Nebraska,924,Nebraska,Scotts Bluff,15932,43.8,-68,100
+Nebraska,1493,Nebraska,Holt,3700,71.4,-70,100
+Nebraska,987,Nebraska,Stanton; Madison,27000,71.8,36,100
+Nebraska,988,Nebraska,Lincoln,24000,19,-37,100
+Nebraska,2620,Nebraska,Lancaster,240000,49.71,0,100
+Nevada,1117,Nevada,Carson City,52000,13.43,526,N/A
+Nevada,2930,Nevada,Washoe,350000,66.6,81,100
+Nevada,554,Nevada,Washoe,300000,13.6,-6,N/A
+Nevada,2607,Nevada,Clark,990000,34.14,-6,100
+Nevada,2592,Nevada,Clark,2000000,36.8,-33,100
+New Hampshire,2088,New Hampshire,Grafton,11000,N/A,N/A,N/A
+New Hampshire,2089,New Hampshire,Cheshire,30000,N/A,N/A,N/A
+New Hampshire,2090,New Hampshire,Hillsborough,172000,N/A,N/A,N/A
+New Hampshire,2086,New Hampshire,Strafford,14638,N/A,N/A,N/A
+New Hampshire,2092,New Hampshire,Rockingham,3500,N/A,N/A,N/A
+New Hampshire,2093,New Hampshire,Sullivan,6500,N/A,N/A,N/A
+New Hampshire,2084,New Hampshire,Coos,10000,N/A,N/A,N/A
+New Hampshire,2091,New Hampshire,Hillsborough,26632,N/A,N/A,N/A
+New Hampshire,2496,New Hampshire,Belknap; Oxford; Cumberland; Carroll,6500,45.8,-80,100
+New Hampshire,2519,New Hampshire,Sullivan,6000,80,-53,100
+New Hampshire,2085,New Hampshire,Strafford,32000,N/A,N/A,N/A
+New Hampshire,2087,New Hampshire,Rockingham,20000,N/A,N/A,N/A
+New Hampshire,1880,New Hampshire,Strafford,30000,48,-11,100
+New Jersey,1453,New Jersey,Monmouth,47000,51.6,334,100
+New Jersey,2351,New Jersey,Burlington,19980,67.6,-89,100
+New Jersey,2352,New Jersey,Cumberland,30000,43.75,-99,100
+New Jersey,2373,New Jersey,Hunterdon,9440,76,-95,100
+New Jersey,2400,New Jersey,Salem,5500,49.67,N/A,100
+New Jersey,784,New Jersey,Somerset; Middlesex; Union,880000,71,-43,100
+New Jersey,2222,New Jersey,Monmouth,100000,74.43,10,100
+New Jersey,2619,New Jersey,Somerset,130000,64.43,-4,100
+New Jersey,1322,New Jersey,Union; Essex,1300000,72.4,1095,100
+New Jersey,1385,New Jersey,Hudson,145000,53,22,100
+New Jersey,1605,New Jersey,Bergen,564563,71.8,-23,100
+New Jersey,2107,New Jersey,Cumberland,30000,69.2,-64,100
+New Jersey,2349,New Jersey,Atlantic,12000,62.4,-89,100
+New Jersey,2350,New Jersey,Morris,24530,38.8,272,100
+New Jersey,2355,New Jersey,Union,204148,60.4,16,100
+New Jersey,2377,New Jersey,Monmouth,47357,44,2,100
+New Jersey,1907,New Jersey,Monmouth,52672,57.14,28,100
+New Jersey,2378,New Jersey,Sussex,7751,57.2,-100,100
+New Jersey,2865,New Jersey,Camden,525000,56.8,10,100
+New Jersey,788,New Jersey,Hudson; Essex; Passaic; Bergen,1500000,73.6,600,100
+New Jersey,2107,New Jersey,Cumberland,50000,49.29,-25,100
+New Jersey,1291,New Jersey,Passaic,54000,58.6,-64,100
+New Jersey,2353,New Jersey,Morris,90000,37.75,39,100
+New Jersey,2354,New Jersey,Somerset,7000,50.4,-64,100
+New Jersey,2423,New Jersey,Atlantic,250000,54,22,100
+New Jersey,2209,New Jersey,Monmouth,50000,49.86,9,100
+New Jersey,788,New Jersey,Essex; Bergen; Hudson; Union; Passaic,1500000,49.33,4,100
+New Mexico,1362,New Mexico,Luna,14000,41,1306,75
+New Mexico,2492,New Mexico,Santa Fe,87000,30.6,275,100
+New Mexico,1360,New Mexico,Chaves,50000,72,168,100
+New Mexico,2683,New Mexico,Bernalillo,650000,14,-73,100
+New Mexico,2391,New Mexico,Sandoval,101750,12,66,100
+New Mexico,2394,New Mexico,Dona Ana,8127,36,-89,100
+New Mexico,2649,New Mexico,Dona Ana,89719,76.2,288,100
+New York,1007,New York,Genesee,4191,47,2147483647,50
+New York,1013,New York,Erie,71131,49,-57,100
+New York,1022,New York,Schenectady,78444,N/A,N/A,N/A
+New York,1044,New York,Suffolk,24147,43,302771,100
+New York,1045,New York,Essex,6264,4.75,73,0
+New York,1068,New York,Tompkins,56967,9.8,14,0
+New York,1099,New York,Wyoming,3448,27.5,N/A,0
+New York,1171,New York,Schoharie,5326,N/A,N/A,N/A
+New York,1405,New York,Rockland,4115,19.67,N/A,0
+New York,1486,New York,Westchester,40301,13,1795745,50
+New York,1504,New York,Sullivan,6639,54,N/A,100
+New York,1557,New York,Orange,6563,4.5,N/A,0
+New York,1821,New York,Dutchess,14525,37,N/A,0
+New York,1931,New York,Albany,21281,N/A,N/A,N/A
+New York,1937,New York,Livingston,5361,19,N/A,0
+New York,2025,New York,Niagara,38971,53.5,-62,100
+New York,2102,New York,Ontario,16507,2,0,0
+New York,2177,New York,Chemung,18085,4,-13,0
+New York,2179,New York,Erie,24461,52.4,-49,100
+New York,2200,New York,Jefferson,23485,15,-19,0
+New York,2272,New York,Saint Lawrence,12114,N/A,N/A,N/A
+New York,2281,New York,Chautauqua,3365,36,-56,0
+New York,2287,New York,Oneida,3210,N/A,N/A,N/A
+New York,515,New York,Madison,4843,16.67,-33,0
+New York,522,New York,Orange,27434,19.6,-14,0
+New York,580,New York,Monroe,43074,20.75,-5,0
+New York,694,New York,Franklin,7175,4.33,15,0
+New York,721,New York,Rensselaer,79699,N/A,N/A,N/A
+New York,723,New York,Seneca,6961,18.67,-21,0
+New York,869,New York,Warren,23462,N/A,N/A,N/A
+New York,996,New York,Erie,142478,79.8,56,100
+New York,998,New York,Erie,431141,65,109,100
+New York,2601,New York,Oswego,30000,42.29,-17,100
+New York,1009,New York,Niagara,48196,37.67,22,100
+New York,1150,New York,Suffolk,7741,34.5,-63,100
+New York,1404,New York,Rockland,10890,3,N/A,0
+New York,1460,New York,Orange,28914,12,N/A,0
+New York,1484,New York,Westchester,94095,23,24,0
+New York,1488,New York,Westchester,31046,7.33,-16,0
+New York,1844,New York,Saint Lawrence,22552,23.5,-17,0
+New York,1852,New York,Saint Lawrence,14475,11.4,-43,0
+New York,1855,New York,Albany,31023,N/A,N/A,N/A
+New York,2007,New York,Wayne,5145,45,N/A,0
+New York,2050,New York,Nassau,5824,64.33,N/A,100
+New York,2080,New York,Nassau,27494,65.2,-94,100
+New York,2176,New York,Chemung,38037,2.67,-7,0
+New York,2181,New York,Monroe,487322,14.2,-34,0
+New York,2182,New York,Orange,6369,14.2,-14,0
+New York,2189,New York,Ulster,10577,30.5,N/A,0
+New York,2194,New York,Saratoga,152482,N/A,N/A,N/A
+New York,2197,New York,Essex,3263,11,2,0
+New York,2201,New York,Oswego,14199,29,-10,0
+New York,2264,New York,Nassau,8288,58.8,-71,100
+New York,2268,New York,Onondaga,3272,1,0,0
+New York,2280,New York,Seneca,6160,19.33,-40,0
+New York,300,New York,Otsego,19383,5.5,N/A,0
+New York,426,New York,Orange,6729,2,N/A,0
+New York,477,New York,Essex,3076,2.67,N/A,0
+New York,483,New York,Delaware,3581,10,-14,0
+New York,513,New York,Onondaga,30613,21,N/A,0
+New York,524,New York,Orange,36227,11.5,380,0
+New York,529,New York,Orange,8568,3,-21,0
+New York,531,New York,Jefferson,4077,31.5,27,0
+New York,532,New York,Onondaga,25965,12.5,N/A,0
+New York,776,New York,Ulster,26599,12.6,-13,0
+New York,986,New York,Washington,12260,N/A,N/A,N/A
+New York,997,New York,Genesee,16459,10.75,227384,25
+New York,2608,New York,Tompkins,90000,58,11,100
+New York,1000,New York,Erie,17983,64.2,880,100
+New York,1006,New York,Chautauqua,32501,1,0,0
+New York,1011,New York,Cattaraugus,17760,0,0,0
+New York,1012,New York,Erie,83961,43.2,57,100
+New York,1097,New York,Dutchess,38207,27.8,1175,25
+New York,1151,New York,Oneida,27849,N/A,N/A,N/A
+New York,1401,New York,Rockland,36527,13.25,1,0
+New York,1483,New York,Westchester,26651,25,N/A,0
+New York,1489,New York,Westchester,523765,17,0,0
+New York,1936,New York,Clinton,5532,15.67,-5,0
+New York,1939,New York,Suffolk,28183,57,N/A,100
+New York,2004,New York,Oswego,12117,27.67,-40,0
+New York,2172,New York,Albany,109426,N/A,N/A,N/A
+New York,2173,New York,Albany,80922,N/A,N/A,N/A
+New York,2174,New York,Onondaga,16168,32,N/A,0
+New York,2175,New York,Tompkins,9770,20.67,71791,50
+New York,2191,New York,Orange,42921,16.6,-98,25
+New York,2192,New York,Oswego,8849,52.67,4,0
+New York,2193,New York,Dutchess,21516,27.33,0,0
+New York,2198,New York,Madison,3317,7,-5,0
+New York,2285,New York,Chautauqua,9379,41.67,11291,50
+New York,512,New York,Cayuga,31814,32.2,1538,25
+New York,516,New York,Madison,4908,11,N/A,0
+New York,517,New York,Livingston,4730,20,-23,0
+New York,518,New York,Steuben,5162,25.2,16639,0
+New York,520,New York,Onondaga,39352,33.67,N/A,0
+New York,527,New York,Madison,9207,13,-22,0
+New York,52,New York,Steuben,5941,35,136,0
+New York,692,New York,Saint Lawrence,10794,9.4,-4,0
+New York,717,New York,Montgomery,19679,N/A,N/A,N/A
+New York,1008,New York,Orleans,6191,31.5,221265525,50
+New York,1010,New York,Monroe,155096,22.2,-4,0
+New York,1021,New York,Nassau,20616,56.25,1726,100
+New York,1041,New York,Suffolk,278775,64.25,-93,100
+New York,1043,New York,Suffolk,3349,N/A,N/A,N/A
+New York,1078,New York,Wayne,8931,13,N/A,0
+New York,1098,New York,Sullivan,4925,20,N/A,0
+New York,1149,New York,Tioga,3750,30.5,N/A,0
+New York,1153,New York,Livingston,15688,47,-100,0
+New York,1213,New York,Ontario,17936,42.5,106,0
+New York,1306,New York,Nassau,524955,45.75,458,67
+New York,1402,New York,Clinton,20893,10.2,0,0
+New York,1403,New York,Rockland,12676,16.33,47,0
+New York,1485,New York,Westchester,78683,8.8,28,0
+New York,1487,New York,Westchester,44876,3.75,7,0
+New York,1800,New York,Dutchess,13856,18.5,N/A,0
+New York,1853,New York,Suffolk,7499,42,-93,100
+New York,1854,New York,Suffolk,5789,25,N/A,0
+New York,1917,New York,Saint Lawrence,4705,50.2,-99,25
+New York,1938,New York,Suffolk,6280,64,N/A,100
+New York,2112,New York,Livingston,3288,25,-32,0
+New York,2178,New York,Erie,6908,44.5,37424842,75
+New York,2180,New York,Broome,38726,0,0,0
+New York,2187,New York,Lewis,3953,N/A,N/A,N/A
+New York,2190,New York,Niagara,5632,93.33,N/A,100
+New York,2195,New York,Ulster,3793,27.33,25,0
+New York,2212,New York,Orange,5672,16.33,458,0
+New York,2213,New York,Oneida,6076,N/A,N/A,N/A
+New York,2219,New York,Oneida,3990,35.5,N/A,0
+New York,2273,New York,Monroe,6400,52,84027678,0
+New York,479,New York,Chenango,6734,7.33,-11,0
+New York,521,New York,Onondaga,242377,0,N/A,0
+New York,525,New York,Onondaga,50727,45.67,N/A,0
+New York,567,New York,Fulton,23379,10.5,N/A,0
+New York,690,New York,Cortland,26950,14.25,-3,0
+New York,691,New York,Herkimer,13924,N/A,N/A,N/A
+New York,718,New York,Schuyler,3656,4.67,N/A,0
+New York,719,New York,Nassau,24041,44,-65,100
+New York,738,New York,Putnam,4480,1,N/A,0
+New York,740,New York,Oneida,55215,10.8,N/A,0
+New York,836,New York,Nassau,611349,59.2,1006,67
+New York,837,New York,Rockland,53437,31.17,-20,0
+New York,838,New York,Rockland,207430,9,14,0
+New York,974,New York,Yates,5339,N/A,N/A,N/A
+New York,994,New York,Orleans,6278,24,187347556,50
+New York,999,New York,Chautauqua,12616,46,-45,0
+New York City,2763,New York City,Kings,825096,N/A,N/A,N/A
+New York City,2766,New York City,Queens,131254,N/A,N/A,N/A
+New York City,2756,New York City,Queens,824156,N/A,N/A,N/A
+New York City,2757,New York City,Kings,710768,N/A,N/A,N/A
+New York City,2758,New York City,Bronx,769120,N/A,N/A,N/A
+New York City,2761,New York City,New York,655795,N/A,N/A,N/A
+New York City,2762,New York City,Richmond,266371,N/A,N/A,N/A
+New York City,2764,New York City,Richmond,210680,N/A,N/A,N/A
+New York City,2767,New York City,Queens,444823,N/A,N/A,N/A
+New York City,2755,New York City,Kings,295778,N/A,N/A,N/A
+New York City,2759,New York City,Queens,798883,N/A,N/A,N/A
+New York City,2760,New York City,Kings,1197476,N/A,N/A,N/A
+New York City,2765,New York City,Kings,251164,N/A,N/A,N/A
+New York City,2768,New York City,New York,1197129,N/A,N/A,N/A
+North Carolina,1031,North Carolina,Onslow,41819,61,-75,100
+North Carolina,144,North Carolina,Cumberland,151589,47.5,2080,100
+North Carolina,166,North Carolina,Guilford,135821,54.5,-60,100
+North Carolina,271,North Carolina,Buncombe; Henderson,173000,58.2,-65,100
+North Carolina,303,North Carolina,Orange; Durham,78141,42,-81,100
+North Carolina,334,North Carolina,Wake,30655,54.8,-34,100
+North Carolina,369,North Carolina,Orange; Durham,108105,67.4,150,100
+North Carolina,450,North Carolina,New Hanover,58361,53.4,-94,100
+North Carolina,452,North Carolina,Forsyth,178000,72.4,181,100
+North Carolina,85,North Carolina,Wake,74331,65,-69,100
+North Carolina,92,North Carolina,Mecklenburg,68685,89,N/A,100
+North Carolina,94,North Carolina,Mecklenburg,120000,N/A,N/A,N/A
+North Carolina,2596,North Carolina,Duplin; Pender,10000,49,101,100
+North Carolina,1223,North Carolina,Rowan,21000,63.8,-97,100
+North Carolina,2589,North Carolina,Lenoir,20484,32.4,-36,100
+North Carolina,1611,North Carolina,Forsyth; Randolph; Davidson; Guilford,116390,75.2,502,100
+North Carolina,2033,North Carolina,Henderson,43633,59,-17,100
+North Carolina,216,North Carolina,Scotland,15527,88.6,-43,100
+North Carolina,345,North Carolina,Northampton; Halifax,14320,81.75,699,100
+North Carolina,405,North Carolina,Jackson,13296,60.6,160,100
+North Carolina,53,North Carolina,Carteret,3500,49,-99,100
+North Carolina,84,North Carolina,Wake,84189,68.8,-88,100
+North Carolina,93,North Carolina,Mecklenburg,182501,77.5,N/A,100
+North Carolina,1662,North Carolina,Forsyth,92000,58.86,-9,100
+North Carolina,2605,North Carolina,Wilson,50000,58.5,6,100
+North Carolina,2565,North Carolina,Watauga,26000,52,-58,100
+North Carolina,2641,North Carolina,Swain; Jackson,10000,18,457,33
+North Carolina,332,North Carolina,Wake,550000,33.2,111,100
+North Carolina,335,North Carolina,Wake,7776,62.4,-16,100
+North Carolina,451,North Carolina,New Hanover,67743,57.2,44,100
+North Carolina,1220,North Carolina,Rowan,32000,53.6,287,100
+North Carolina,111,North Carolina,Wilson,49384,41,-23,100
+North Carolina,1521,North Carolina,Mecklenburg,82158,88.6,-52,100
+North Carolina,1523,North Carolina,Durham,142000,69.6,162,100
+North Carolina,167,North Carolina,Pitt,89616,49.4,-100,100
+North Carolina,237,North Carolina,Mcdowell,8459,59.4,-98,100
+North Carolina,86,North Carolina,Wake,75886,73.4,-62,100
+North Carolina,1894,North Carolina,Lenoir,25000,32.33,33,83
+Ohio,112,Ohio,Wayne,27000,71.4,-85,100
+Ohio,140,Ohio,Lorain,54500,86.4,326,100
+Ohio,157,Ohio,Sandusky,25000,58.6,59,100
+Ohio,186,Ohio,Lawrence,10445,66.67,-58,100
+Ohio,205,Ohio,Hardin,8500,25.67,9,0
+Ohio,2473,Ohio,Knox,7000,42.8,287,100
+Ohio,263,Ohio,Knox,18000,66.2,-64,100
+Ohio,274,Ohio,Henry,8749,68.2,-73,100
+Ohio,291,Ohio,Huron,17000,64.8,4,100
+Ohio,304,Ohio,Butler,22000,76.4,117,100
+Ohio,411,Ohio,Wyandot,6700,58.2,-94,67
+Ohio,442,Ohio,Montgomery,79000,59.8,-47,100
+Ohio,1891,Ohio,Mahoning,174000,64.29,12,100
+Ohio,127,Ohio,Montgomery,226729,68.4,-79,100
+Ohio,1805,Ohio,Huron,3276,46.8,-59,0
+Ohio,1957,Ohio,Lake,20000,51,-50,100
+Ohio,214,Ohio,Fairfield,24303,55.25,34,100
+Ohio,233,Ohio,Richland,52000,61.4,254,100
+Ohio,235,Ohio,Washington,15284,25.4,-100,33
+Ohio,273,Ohio,Hamilton,76000,80.8,37,100
+Ohio,309,Ohio,Licking,7150,62.6,111,100
+Ohio,326,Ohio,Scioto,20366,62.2,-86,75
+Ohio,36,Ohio,Summit,363897,52,-43,100
+Ohio,395,Ohio,Hamilton,34000,69.4,121,100
+Ohio,398,Ohio,Lucas,322446,49.2,-84,67
+Ohio,403,Ohio,Montgomery,65000,60.4,-74,100
+Ohio,54,Ohio,Greene,46160,24.25,-98,33
+Ohio,79,Ohio,Stark,85000,35.4,540,100
+Ohio,859,Ohio,Mercer,4800,70.2,-30,100
+Ohio,101,Ohio,Preble,8400,72.67,N/A,100
+Ohio,108,Ohio,Erie,55000,69.5,226,100
+Ohio,121,Ohio,Ashtabula,12000,38.6,483,33
+Ohio,124,Ohio,Coshocton,12000,69.2,210,100
+Ohio,131,Ohio,Tuscarawas,13572,52.8,-59,100
+Ohio,141,Ohio,Belmont,13169,51.2,635,100
+Ohio,147,Ohio,Hancock,41273,57.4,-3,100
+Ohio,168,Ohio,Darke,13000,67.8,-25,100
+Ohio,187,Ohio,Franklin,645940,56.6,-21,100
+Ohio,219,Ohio,Allen,61000,69.2,751,100
+Ohio,221,Ohio,Hamilton,143000,39,9,100
+Ohio,222,Ohio,Medina,86586,60.4,27,100
+Ohio,225,Ohio,Lorain,72000,61.2,995,100
+Ohio,241,Ohio,Union,24677,59.6,5,100
+Ohio,255,Ohio,Hamilton,488000,56.2,606,100
+Ohio,276,Ohio,Cuyahoga,313158,51,4303,67
+Ohio,278,Ohio,Cuyahoga,103379,68.4,10479,67
+Ohio,282,Ohio,Licking,45000,73.6,67,100
+Ohio,311,Ohio,Wood,37725,45,223,100
+Ohio,428,Ohio,Fayette,14000,59.75,2759,100
+Ohio,43,Ohio,Fulton,6000,60.6,-89,100
+Ohio,455,Ohio,Mahoning,65469,34.8,-94,33
+Ohio,456,Ohio,Muskingum,47500,38,8030,50
+Ohio,48,Ohio,Athens,24536,42.75,-28,50
+Ohio,67,Ohio,Wood,32000,58,106,100
+Ohio,73,Ohio,Williams,8655,73.8,1,100
+Ohio,975,Ohio,Greene,4100,56.2,-74,100
+Ohio,98,Ohio,Pickaway,13965,62,-42,100
+Ohio,102,Ohio,Marion,36000,46.6,-36,100
+Ohio,129,Ohio,Defiance,19900,54.8,38,100
+Ohio,134,Ohio,Montgomery,36150,52,-38,100
+Ohio,1608,Ohio,Hocking,8500,66.4,-12,100
+Ohio,170,Ohio,Butler,65000,64.6,775,100
+Ohio,204,Ohio,Portage,29000,56.6,-32,100
+Ohio,228,Ohio,Lucas,110000,52.8,-2,100
+Ohio,277,Ohio,Cuyahoga,524154,60,16245,67
+Ohio,322,Ohio,Ottawa,7000,25.8,N/A,0
+Ohio,374,Ohio,Franklin,654817,57.8,61,100
+Ohio,382,Ohio,Clark,60000,46.4,-73,100
+Ohio,388,Ohio,Jefferson,17864,56.6,N/A,0
+Ohio,422,Ohio,Trumbull,54037,48.2,3205,67
+Ohio,46,Ohio,Ashtabula,31430,40.6,-76,67
+Ohio,74,Ohio,Crawford,12362,38.2,367,33
+Ohio,82,Ohio,Carroll,3500,55.8,1431,50
+Ohio,1810,Ohio,Portage; Summit,365000,62.29,-8,100
+Oklahoma,2566,Oklahoma,Pontotoc,16738,33.25,N/A,100
+Oklahoma,2568,Oklahoma,Washington,36495,36.8,6691353,50
+Oklahoma,2572,Oklahoma,Bryan,18589,47.67,-94,100
+Oklahoma,2583,Oklahoma,Payne,48134,53.75,N/A,100
+Oklahoma,2574,Oklahoma,Tulsa,112025,N/A,N/A,N/A
+Oklahoma,2576,Oklahoma,Muskogee,36790,34.6,264126,50
+Oklahoma,2586,Oklahoma,Canadian,24623,87,N/A,100
+Oklahoma,2567,Oklahoma,Caddo,6623,95,N/A,100
+Oklahoma,2577,Oklahoma,Cleveland,122837,65.5,N/A,100
+Oklahoma,2578,Oklahoma,Oklahoma,442168,N/A,N/A,N/A
+Oklahoma,2579,Oklahoma,Tulsa,181670,N/A,N/A,N/A
+Oklahoma,2580,Oklahoma,Seminole,7488,74,-100,100
+Oklahoma,2585,Oklahoma,Woodward,11998,69.33,N/A,100
+Oklahoma,2512,Oklahoma,Garfield,50350,58.2,39,100
+Oklahoma,2571,Oklahoma,Oklahoma,107331,34,N/A,100
+Oklahoma,2573,Oklahoma,Garfield,49583,73.33,N/A,100
+Oklahoma,2575,Oklahoma,Oklahoma,57288,37.75,37099,100
+Oklahoma,2582,Oklahoma,Tulsa,147101,N/A,N/A,N/A
+Oklahoma,2584,Oklahoma,Cherokee,16463,48,-97,100
+Oregon,934,Oregon,Benton,58856,29.33,-99,100
+Oregon,936,Oregon,Lane,8925,25.67,-100,100
+Oregon,942,Oregon,Washington,220000,40,6,100
+Oregon,943,Oregon,Washington,40000,18,37,100
+Oregon,945,Oregon,Multnomah,662235,37.67,N/A,100
+Oregon,955,Oregon,Yamhill,34615,N/A,N/A,N/A
+Oregon,959,Oregon,Umatilla,17500,40.67,N/A,100
+Oregon,961,Oregon,Marion,229000,68.33,-100,100
+Oregon,2639,Oregon,Multnomah,45600,45.33,N/A,100
+Oregon,2802,Oregon,Clackamas,26298,41.67,194,100
+Oregon,932,Oregon,Deschutes,92850,16,41,100
+Oregon,935,Oregon,Polk,16555,40.67,-42,100
+Oregon,949,Oregon,Washington,40000,10.33,-70,100
+Oregon,950,Oregon,Josephine,37725,75,N/A,100
+Oregon,951,Oregon,Umatilla,18775,28.67,N/A,100
+Oregon,953,Oregon,Klamath,20840,20.67,-97,100
+Oregon,956,Oregon,Jackson,133708,50.33,N/A,100
+Oregon,965,Oregon,Marion,10520,71.67,N/A,100
+Oregon,967,Oregon,Marion,10840,27,2339,100
+Oregon,971,Oregon,Lane,235155,31.5,634,100
+Oregon,929,Oregon,Linn,57785,43.67,-87,100
+Oregon,930,Oregon,Clatsop,11326,49.33,N/A,100
+Oregon,944,Oregon,Washington,9900,30,-35,100
+Oregon,957,Oregon,Coos,9975,54.33,81,100
+Oregon,958,Oregon,Malheur,12000,34.5,-34,100
+Oregon,966,Oregon,Columbia,13739,79.75,-16,100
+Oregon,2801,Oregon,Tillamook,27748,49,-99,100
+Oregon,469,Oregon,Jackson,21105,59,-98,100
+Oregon,933,Oregon,Clackamas,14206,52.33,-44,100
+Oregon,937,Oregon,Lincoln,8865,24.67,-87,100
+Oregon,939,Oregon,Lincoln,10400,63,288,100
+Oregon,941,Oregon,Marion,26273,67.33,-84,100
+Oregon,948,Oregon,Wasco,15276,N/A,N/A,N/A
+Oregon,952,Oregon,Hood River,7800,55,N/A,100
+Pennsylvania,1366,Pennsylvania,Dauphin,125000,51.8,-79,100
+Pennsylvania,1366,Pennsylvania,Dauphin,125000,N/A,N/A,N/A
+Pennsylvania,1455,Pennsylvania,Delaware,6800,80.8,-21,100
+Pennsylvania,1533,Pennsylvania,Centre,90000,53.86,1186,100
+Pennsylvania,1553,Pennsylvania,Mckean,14194,N/A,N/A,N/A
+Pennsylvania,1554,Pennsylvania,Mercer,16000,52.4,-95,75
+Pennsylvania,2216,ph,Philadelphia,1004057,N/A,N/A,N/A
+Pennsylvania,2364,Pennsylvania,Allegheny,7000,N/A,N/A,N/A
+Pennsylvania,2365,Pennsylvania,Allegheny,48000,N/A,N/A,N/A
+Pennsylvania,2367,Pennsylvania,Allegheny,5191,N/A,N/A,N/A
+Pennsylvania,2368,Pennsylvania,Allegheny,43482,N/A,N/A,N/A
+Pennsylvania,1667,Pennsylvania,Dauphin,125000,57.86,18,100
+Pennsylvania,1083,Pennsylvania,Montgomery,13000,67.2,-51,100
+Pennsylvania,2494,Pennsylvania,Butler,45000,38.8,-10,100
+Pennsylvania,1368,Pennsylvania,Westmoreland; Armstrong,34200,47.2,780,100
+Pennsylvania,1376,Pennsylvania,Westmoreland,4600,43,160,50
+Pennsylvania,1390,Pennsylvania,Monroe,25000,53,-100,75
+Pennsylvania,1553,Pennsylvania,Mckean,14194,42.6,465,100
+Pennsylvania,1777,Pennsylvania,Monroe,4000,72.2,-14,100
+Pennsylvania,2307,Pennsylvania,Montgomery,35000,N/A,N/A,N/A
+Pennsylvania,2308,Pennsylvania,Montgomery,8900,N/A,N/A,N/A
+Pennsylvania,2329,Pennsylvania,Montgomery,35000,N/A,N/A,N/A
+Pennsylvania,2362,Pennsylvania,Allegheny,900000,N/A,N/A,N/A
+Pennsylvania,2788,Pennsylvania,Montgomery,25000,N/A,N/A,N/A
+Pennsylvania,2929,Pennsylvania,Jefferson,8255,N/A,N/A,N/A
+Pennsylvania,1737,Pennsylvania,Delaware,220000,37.86,-11,100
+Pennsylvania,2830,Pennsylvania,Bucks; Northampton,55000,48.4,-84,100
+Pennsylvania,1357,Pennsylvania,Montgomery,30000,45.8,363,100
+Pennsylvania,1376,Pennsylvania,Westmoreland,4600,N/A,N/A,N/A
+Pennsylvania,1390,Pennsylvania,Monroe,25000,N/A,N/A,N/A
+Pennsylvania,1529,Pennsylvania,Indiana,28809,42.2,4,100
+Pennsylvania,1776,Pennsylvania,Trumbull; Mercer,19000,37.8,108,100
+Pennsylvania,1776,Pennsylvania,Trumbull; Mercer,19000,N/A,N/A,N/A
+Pennsylvania,1787,Pennsylvania,Chester,10500,46.2,-78,100
+Pennsylvania,1787,Pennsylvania,Chester,10500,N/A,N/A,N/A
+Pennsylvania,2217,ph,Philadelphia,291524,N/A,N/A,N/A
+Pennsylvania,2218,ph,Philadelphia,517309,72.2,-98,N/A
+Pennsylvania,2363,Pennsylvania,Montgomery,16000,N/A,N/A,N/A
+Pennsylvania,2667,Pennsylvania,Montgomery,13000,82.4,-38,100
+Pennsylvania,1358,Pennsylvania,Cumberland,25000,62.2,-53,100
+Pennsylvania,1359,Pennsylvania,Erie,200000,78.4,35,100
+Pennsylvania,1367,Pennsylvania,Franklin,67000,80.4,21,100
+Pennsylvania,1370,Pennsylvania,Lehigh,200000,75.2,-52,100
+Pennsylvania,1375,Pennsylvania,York,85000,57.6,-65,100
+Pennsylvania,1375,Pennsylvania,York,85000,N/A,N/A,N/A
+Pennsylvania,1775,Pennsylvania,Lackawanna,15700,43.8,-5,100
+Pennsylvania,1809,Pennsylvania,Chester,13500,74.6,-88,100
+Rhode Island,2854,Rhode Island,Bristol,11500,27.6,-94,100
+Rhode Island,2826,Rhode Island,Washington,5000,65.6,551,100
+Rhode Island,2785,Rhode Island,Newport,41600,41.4,-10,100
+Rhode Island,464,Rhode Island,Providence,240000,53.5,-7,100
+Rhode Island,2856,Rhode Island,Bristol,21100,61.8,-41,100
+Rhode Island,2839,Rhode Island,Worcester; Providence; Norfolk,43000,32.2,122,100
+Rhode Island,2891,Rhode Island,Kent,30000,48.4,-77,100
+Rhode Island,1134,Rhode Island,Kent,60224,58.6,-17,100
+Rhode Island,2786,Rhode Island,Washington,16500,58.4,-4,100
+Rhode Island,76,Rhode Island,Providence,9700,43.4,23,100
+Rhode Island,548,Rhode Island,Providence,120000,56.2,-11,100
+South Carolina,2742,South Carolina,Lancaster,10000,67.8,7841,100
+South Carolina,2821,South Carolina,Marion,10000,65.75,-93,100
+South Carolina,2939,South Carolina,Hampton,5000,42.4,-57,100
+South Carolina,877,South Carolina,Kershaw,8825,57.2,-27,100
+South Carolina,883,South Carolina,York,88000,79.75,52,100
+South Carolina,885,South Carolina,Georgetown,30000,73,-52,100
+South Carolina,909,South Carolina,Horry,195000,77.33,-85,100
+South Carolina,2676,South Carolina,Greenwood,12000,71.67,197,100
+South Carolina,1871,South Carolina,Beaufort,20000,66.5,174,100
+South Carolina,2818,South Carolina,Horry,20000,46.6,-27,100
+South Carolina,2820,South Carolina,Marion,14000,71.25,-93,100
+South Carolina,2822,South Carolina,Dorchester; Berkeley; Charleston,140000,62.8,-69,100
+South Carolina,908,South Carolina,Richland,60000,47.4,-73,50
+South Carolina,2677,South Carolina,Greenwood,48000,66.5,-83,100
+South Carolina,2782,South Carolina,Richland; Lexington,11399,63.25,300,100
+South Carolina,2836,South Carolina,Jasper,10000,33,-79,50
+South Carolina,2872,South Carolina,Horry,30000,64.2,-70,100
+South Carolina,2634,South Carolina,Georgetown,12000,69,-26,100
+South Carolina,2819,South Carolina,Columbus; Horry,3200,73.2,-52,100
+South Carolina,2823,South Carolina,Horry,38000,65.2,-2,100
+South Carolina,2835,South Carolina,Marlboro,6427,73.4,-2,100
+South Carolina,906,South Carolina,Lexington,40000,50,286,100
+South Dakota,2606,South Dakota,Yankton,20000,36.14,-23,100
+South Dakota,2630,South Dakota,Beadle,14000,87.4,-60,100
+Tennessee,2288,Tennessee,Walker; Dade; Catoosa; Hamilton,400000,71.5,11,100
+Tennessee,2612,Tennessee,Shelby,300000,75.57,-19,100
+Texas,2850,Texas,Dallas,131391,52.8,-27,100
+Texas,2661,Texas,Webb,30000,38.6,231,100
+Texas,1140,Texas,Travis,539116,35.6,34,100
+Texas,1934,Texas,Mclennan,203344,45.2,715,100
+Texas,2374,Texas,Andrews,13502,51.6,9273,100
+Texas,2807,Texas,Jefferson,112193,57.67,2147483647,100
+Texas,2811,Texas,Hardin,34000,25.6,-98,75
+Texas,2814,Texas,Nueces,158298,18.4,376,100
+Texas,2817,Texas,Tarrant,1000000,30.8,45,100
+Texas,35,Houston,Harris,551150,100,N/A,100
+Texas,40,Houston,Harris,117968,83.33,55,100
+Texas,2325,Texas,Dallas,270000,56.29,-8,100
+Texas,2663,Texas,Webb,120000,28.6,320,100
+Texas,2850,Texas,Dallas,105158,72.25,-100,100
+Texas,2850,Texas,Dallas,9079,64.6,131,100
+Texas,201,Houston,Harris,124000,52.67,-86,100
+Texas,2816,Texas,Victoria,65800,21.25,568,100
+Texas,2833,Texas,Hidalgo,70000,35.2,0,100
+Texas,2868,Texas,Smith,9284,N/A,N/A,N/A
+Texas,2921,Texas,Hidalgo,16782,53,38579,100
+Texas,449,Houston,Harris,8610,52.67,1274,100
+Texas,1683,Texas,Dallas,186000,64.86,-38,100
+Texas,1141,Texas,Travis,529541,46.6,-9,100
+Texas,2751,Texas,Dallas,242000,71.33,-57,100
+Texas,2850,Texas,Kaufman; Collin; Dallas,1000000,77.8,72,100
+Texas,2850,Texas,Dallas,2600000,86.75,-29,100
+Texas,2808,Texas,Hays,18000,13.4,25,100
+Texas,2810,Texas,Taylor,125000,54.4,72,100
+Texas,2857,Texas,Gregg,82103,N/A,N/A,N/A
+Texas,2866,Texas,Gregg,13000,72.67,N/A,0
+Texas,2867,Texas,Henderson,13503,30.6,-83,100
+Texas,2894,Texas,Brazos,58250,20.8,-96,75
+Texas,2949,Texas,Denton,166774,new site,-67,100
+Texas,375,Houston,Harris,293227,25,-74,100
+Texas,1761,Texas,Potter; Randall,60000,67.43,-16,100
+Texas,1762,Texas,Potter; Randall,140000,58.29,-4,100
+Texas,1881,Texas,Cooke,17300,71.57,-25,100
+Texas,1947,Texas,Montgomery,65000,33.14,0,100
+Texas,2326,Texas,Dallas,630000,41.43,-26,100
+Texas,865,Texas,Webb,120000,15.71,43,80
+Texas,867,Texas,Webb,140000,19.43,-11,100
+Texas,2642,Texas,Webb,140000,43.2,-69,100
+Texas,2666,Texas,Galveston,115000,49,-56,100
+Texas,2673,Texas,Galveston,115000,20.5,-39,100
+Texas,2689,Texas,Galveston,15000,52.6,50,100
+Texas,2850,Texas,Dallas,22191,76.2,1067,100
+Texas,2850,Texas,Dallas,313164,58,23,100
+Texas,2815,Texas,Anderson,19372,16,27,75
+Texas,2859,Texas,Smith,43686,58.8,-14,0
+Texas,1673,Texas,Dallas,200000,68.29,-1,100
+Texas,1765,Texas,Wichita,90000,51,N/A,100
+Texas,1948,Texas,Montgomery,70000,34.43,-20,100
+Texas,2615,Texas,Dallas,421700,59.67,-25,100
+Utah,10,Utah,Cache,9095,60,26,100
+Utah,15,Utah,Grand; San Juan,9896,35.4,-61,100
+Utah,18,Utah,Utah,102624,28,-33,100
+Utah,19,Utah,Carbon,17312,44.6,83,100
+Utah,22,Utah,Summit,23839,66.6,50,100
+Utah,26,Utah,Utah,53313,50.8,-46,100
+Utah,33,Utah,Utah,253112,45,-8,100
+Utah,9,Utah,Davis; Weber,208850,31.8,152,100
+Utah,1708,Utah,Utah,115000,42.6,-6,100
+Utah,1877,Utah,Salt Lake,600000,20.29,5,100
+Utah,1077,Utah,Wasatch,5806,31.4,966,100
+Utah,11,Utah,Utah; Salt Lake,94484,35,-49,100
+Utah,12,Utah,Cache,94005,65.6,-30,100
+Utah,16,Utah,Weber; Davis,228700,32.6,109,100
+Utah,20,Utah,Utah,21231,31.6,-42,100
+Utah,21,Utah,Duchesne,6790,10.4,-38,25
+Utah,24,Utah,Davis,84981,40.2,128,100
+Utah,28,Utah,Salt Lake,209645,31.8,-22,100
+Utah,2,Utah,Uintah,29513,29,-80,100
+Utah,5,Utah,Iron,32451,12.4,-51,100
+Utah,31,Utah,Utah,35840,37,-69,100
+Utah,32,Utah,Tooele,36244,45.8,-52,100
+Utah,7,Utah,Salt Lake,515494,41,-72,100
+Utah,1077,Utah,Wasatch,19936,31.6,-63,100
+Utah,11,Utah,Salt Lake,89507,43,-76,100
+Utah,17,Utah,Utah,112901,24.8,-35,100
+Utah,1,Utah,Washington,24970,15,-6,100
+Utah,23,Utah,Summit,7995,56.4,-12,100
+Utah,25,Utah,Davis,21872,40,347,100
+Utah,27,Utah,Washington,92047,40,-14,100
+Utah,29,Utah,Utah,12510,75.2,-21,100
+Utah,30,Utah,Salt Lake,254971,13.8,-40,100
+Utah,34,Utah,Box Elder,12451,29,-74,75
+Utah,3,Utah,Box Elder,21443,47.4,-81,100
+Utah,6,Utah,Davis,64533,53,-45,100
+Vermont,2853,Vermont,Addison,9000,81,71,100
+Vermont,2657,Vermont,Windsor,6000,40.75,356,100
+Vermont,2599,Vermont,Chittenden,30000,57.43,-9,100
+Vermont,2613,Vermont,Washington,10100,63.71,-31,100
+Vermont,2108,Vermont,Chittenden,16000,44.8,-38,100
+Virginia,2648,Virginia,Henry; Martinsville City,63000,65.8,93,100
+Virginia,1237,Virginia,Tazewell,4600,39.5,N/A,0
+Virginia,178,Virginia,Isle Of Wight; Suffolk City; Chesapeake City; Portsmouth City,197608,85.33,-56,100
+Virginia,1829,Virginia,Amherst; Lynchburg City; Campbell; Bedford City,220000,71,95,100
+Virginia,2035,Virginia,Hampton City; Newport News City,118497,67,-60,100
+Virginia,2036,Virginia,James City; York; Hampton City; Newport News City,141543,60.67,-62,100
+Virginia,38,Virginia,Alexandria City; Fairfax,300000,48.4,-67,100
+Virginia,61,Virginia,Montgomery,52500,47.75,797,67
+Virginia,2491,Virginia,Frederick; Winchester City,60000,65.4,1100,100
+Virginia,1576,Virginia,Loudoun,300000,31.33,N/A,100
+Virginia,177,Virginia,Chesapeake City; Virginia Beach City,530848,71,-94,100
+Virginia,181,Virginia,Williamsburg City; Newport News City; York; New Kent; James City,69059,51,9531,50
+Virginia,1826,Virginia,Wise; Norton City,14000,15.4,202,0
+Virginia,1831,Virginia,Rockingham; Harrisonburg City,81000,23.2,-62,25
+Virginia,1833,Virginia,Montgomery; Pulaski; Radford,70000,47.2,1103,50
+Virginia,1834,Virginia,Bedford City; Roanoke; Roanoke City; Salem; Botetourt; Bland,300000,43.2,1444,75
+Virginia,1837,Virginia,Russell,3100,52.33,553,0
+Virginia,1985,Virginia,Alleghany,4000,32.2,305,0
+Virginia,2078,Virginia,Fairfax; Falls Church City; Arlington; Alexandria City,232965,45.25,63,67
+Virginia,2290,Virginia,Henrico,330000,69.5,N/A,100
+Virginia,1828,Virginia,Stafford,50000,69,32,80
+Virginia,2483,Virginia,Petersburg City,33458,59,-100,100
+Virginia,2695,Virginia,Alleghany,15000,18.6,0,0
+Virginia,180,Virginia,Chesapeake City; Virginia Beach City; Norfolk City; Portsmouth City,192347,69.33,-57,100
+Virginia,1827,Virginia,Prince William; Fairfax,165901,61.67,123,100
+Virginia,1828,Virginia,Stafford,44000,78.33,34,100
+Virginia,1832,Virginia,Frederick,16563,new site,N/A,100
+Virginia,1838,Virginia,Manassas City; Fairfax City; Fauquier; Fairfax; Prince William; Loudoun; Manassas Park City,350000,32.33,-98,50
+Virginia,2037,Virginia,Mathews; York; Gloucester; Poquoson City; Newport News City; Hampton City,99112,55.67,-83,100
+Virginia,42,Virginia,Prince William; Stafford,92000,51.33,-52,100
+Virginia,2008,Virginia,Stafford,100000,86.33,3,100
+Virginia,1830,Virginia,Albemarle; Charlottesville City,118266,64.5,-44,100
+Virginia,1832,Virginia,Frederick,16563,0.67,-28,0
+Virginia,2029,Virginia,Franklin,5000,46.8,3010,75
+Virginia,2034,Virginia,Norfolk City,78322,55.67,15,100
+Virginia,2485,Virginia,Cumberland; Prince Edward,12390,88,118,100
+Virginia,342,Virginia,Goochland; Henrico; Richmond City,225000,29.67,-25,0
+Virginia,454,Virginia,Washington,7300,87.5,-68,100
+Washington,1076,Washington,Chelan,35550,56.8,-73,100
+Washington,1143,Washington,Pierce,43000,35.6,15,100
+Washington,1397,Washington,Pierce,295855,38.8,-90,100
+Washington,1635,Washington,Yakima,117072,25.8,404,100
+Washington,2419,Washington,Pierce; King,896000,39.2,-88,100
+Washington,2445,Washington,Skagit,35600,62,-100,100
+Washington,2753,Washington,Island; Snohomish,7125,61.4,3798,100
+Washington,351,Washington,Clark,120000,48.6,-19,100
+Washington,676,Washington,King; Snohomish,288000,40.2,9,100
+Washington,2602,Washington,Snohomish,10150,49.43,37,100
+Washington,2104,Washington,Kittitas,21761,59.2,236,75
+Washington,2105,Washington,Island,24180,38,-73,100
+Washington,2414,Washington,Snohomish,20000,28,4731,50
+Washington,2424,Washington,Skagit,17000,N/A,N/A,N/A
+Washington,2438,Washington,Clark,162100,45.8,-58,100
+Washington,2444,Washington,Snohomish,173800,56.6,130,100
+Washington,2534,Washington,Clark,81140,43.4,37,100
+Washington,755,Washington,Benton,15000,N/A,N/A,N/A
+Washington,760,Washington,Spokane,120000,35.4,286,100
+Washington,1399,Washington,Jefferson,10000,25,-53,100
+Washington,1620,Washington,Walla Walla,33000,56,-56,100
+Washington,2420,Washington,King; Snohomish,789000,45.4,-54,100
+Washington,753,Washington,Franklin,73000,28.2,-75,100
+Washington,1398,Washington,Grant,8475,18,45,100
+Washington,1512,Washington,Whitman,35812,5.8,6,0
+Washington,1757,Washington,Thurston,119790,31.2,-82,100
+Washington,661,Washington,Snohomish,37650,32.4,-12,100
+Washington,759,Washington,Spokane,225000,35.43,-62,100
+West Virginia,1860,West Virginia,Kanawha,9000,N/A,N/A,N/A
+West Virginia,1863,West Virginia,Cabell,7000,59.4,N/A,100
+West Virginia,1864,West Virginia,Cabell,7200,N/A,N/A,N/A
+West Virginia,2541,West Virginia,Preston,700,N/A,N/A,N/A
+West Virginia,2544,West Virginia,Jefferson,17000,67,N/A,100
+West Virginia,2547,West Virginia,Randolph,13156,N/A,N/A,N/A
+West Virginia,2550,West Virginia,Mineral,8168,N/A,N/A,N/A
+West Virginia,2553,West Virginia,Marshall,12000,32,N/A,100
+West Virginia,2555,West Virginia,Mason,5515,32,N/A,100
+West Virginia,2556,West Virginia,Mercer,36000,16,N/A,100
+West Virginia,2562,West Virginia,Ohio,50000,N/A,N/A,N/A
+West Virginia,2604,West Virginia,Ohio,100000,49.71,-14,100
+West Virginia,1861,West Virginia,Wayne; Cabell,56000,60.63,182217041,50
+West Virginia,2545,West Virginia,Monongalia,2000,N/A,N/A,N/A
+West Virginia,2646,West Virginia,Putnam,4900,N/A,N/A,N/A
+West Virginia,2067,West Virginia,Taylor,6071,N/A,N/A,N/A
+West Virginia,2546,West Virginia,Harrison,26498,N/A,N/A,N/A
+West Virginia,2552,West Virginia,Marion,1091,N/A,N/A,N/A
+West Virginia,2557,West Virginia,Pleasants,2892,N/A,N/A,N/A
+West Virginia,2563,West Virginia,Fayette,2626,N/A,N/A,N/A
+West Virginia,91,West Virginia,Kanawha,49500,51.56,N/A,100
+West Virginia,1418,West Virginia,Marion,610,N/A,N/A,N/A
+West Virginia,1865,West Virginia,Cabell,4050,N/A,N/A,N/A
+West Virginia,2551,West Virginia,Boone,4555,N/A,N/A,N/A
+West Virginia,2554,West Virginia,Wood,48050,39,N/A,100
+West Virginia,2558,West Virginia,Monongalia,48328,N/A,N/A,N/A
+West Virginia,2560,West Virginia,Doddridge,564,N/A,N/A,N/A
+Wisconsin,128,Wisconsin,Brown,43000,52,599,100
+Wisconsin,164,Wisconsin,Brown; Kewaunee,189000,51.2,-69,100
+Wisconsin,1851,Wisconsin,Walworth,30000,73.4,209,100
+Wisconsin,189,Wisconsin,Rock,63500,85.2,300,100
+Wisconsin,203,Wisconsin,Kenosha,122000,72.6,-75,100
+Wisconsin,209,Wisconsin,La Crosse,85000,58.6,-64,100
+Wisconsin,246,Wisconsin,Dunn,16000,54.5,N/A,100
+Wisconsin,248,Wisconsin,Lincoln,9700,64,430,100
+Wisconsin,2499,Wisconsin,Fond Du Lac,65000,58.4,46,100
+Wisconsin,256,Wisconsin,Ozaukee; Milwaukee,470007,62.4,57,100
+Wisconsin,257,Wisconsin,Waukesha; Milwaukee; Racine; Washington; Ozaukee,615934,48.4,-54,100
+Wisconsin,302,Wisconsin,Winnebago,78300,70.8,-2,100
+Wisconsin,41,Wisconsin,Outagamie; Winnebago; Calumet,72810,42.5,-96,100
+Wisconsin,153,Wisconsin,Waukesha,51000,56.8,-24,67
+Wisconsin,172,Wisconsin,Washington; Dodge,16000,61,-18,100
+Wisconsin,223,Wisconsin,Columbia,3100,39.33,-87,50
+Wisconsin,243,Wisconsin,Juneau,4400,55,3,100
+Wisconsin,260,Wisconsin,Green,11000,21,130,67
+Wisconsin,2747,Wisconsin,Grant,4264,69.8,-90,100
+Wisconsin,297,Wisconsin,Jefferson; Waukesha,22000,58.6,-85,100
+Wisconsin,325,Wisconsin,Columbia,11000,53.8,4,100
+Wisconsin,389,Wisconsin,Portage,27000,74,N/A,100
+Wisconsin,392,Wisconsin,Douglas,28000,43.2,-68,100
+Wisconsin,432,Wisconsin,Waupaca,8000,54.2,-15,67
+Wisconsin,433,Wisconsin,Marathon,42350,70.2,-79,100
+Wisconsin,1029,Wisconsin,Dane,10757,51.2,215,75
+Wisconsin,136,Wisconsin,Chippewa; Eau Claire,77714,60,679,100
+Wisconsin,182,Wisconsin,Saint Croix,19680,57.8,-97,100
+Wisconsin,231,Wisconsin,Dane,391815,37.77,49,100
+Wisconsin,236,Wisconsin,Marinette,11000,55.63,-92,100
+Wisconsin,239,Wisconsin,Marathon; Wood,19300,62,-35,100
+Wisconsin,313,Wisconsin,Marinette,3500,58.6,195,100
+Wisconsin,344,Wisconsin,Saint Croix; Pierce,15900,48,-56,100
+Wisconsin,420,Wisconsin,Vernon,4400,54.25,288,100
+Wisconsin,44,Wisconsin,Ashland,8200,70.33,N/A,100
+Wisconsin,60,Wisconsin,Jackson,5000,54.4,94,100
+Wisconsin,696,Wisconsin,Jefferson; Dodge,23660,71.6,4,100
+Wisconsin,1277,Wisconsin,Dane,424000,67.8,39,100
+Wisconsin,115,Wisconsin,Waupaca,4500,49.8,-79,67
+Wisconsin,232,Wisconsin,Manitowoc,34500,57.2,154,100
+Wisconsin,2530,Wisconsin,Dane,106791,41.8,-93,100
+Wisconsin,2532,Wisconsin,Dane,83127,20.8,301,100
+Wisconsin,364,Wisconsin,Sheboygan,70000,56.2,135,100
+Wisconsin,2621,Wisconsin,Marathon,44000,66.71,-32,100
+Wyoming,2502,Wyoming,Sheridan,18000,23.4,293,100
+Wyoming,2625,Wyoming,Laramie,74600,10,N/A,100
+Wyoming,2626,Wyoming,Sweetwater,12000,N/A,N/A,N/A
+Wyoming,2627,Wyoming,Carbon,8298,N/A,N/A,N/A
+Wyoming,2628,Wyoming,Sheridan,19000,N/A,N/A,N/A
+Wyoming,2721,Wyoming,Albany,32363,N/A,N/A,N/A
+Wyoming,2732,Wyoming,Sweetwater,32000,N/A,N/A,N/A
+Wyoming,2476,Wyoming,Teton,13000,22.6,-44,100
+Wyoming,2740,Wyoming,Teton,20000,N/A,N/A,N/A
+Wyoming,2855,Wyoming,Sweetwater,32000,N/A,N/A,N/A
